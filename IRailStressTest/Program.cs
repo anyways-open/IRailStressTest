@@ -34,7 +34,7 @@ namespace IRailStressTest
 
             // We want a throughput of 200/s
             // This should run ~1minute
-            int maxNumberOfTests = 1000;
+            int maxNumberOfTests = 100;
             // After 'timeout' seconds, we'll stop testing
             int timeOut = 60;
             int spread = 30;
@@ -51,6 +51,10 @@ namespace IRailStressTest
             EnableLogging();
             Log.Information("IRail Stresstest");
             Log.Information("I'm sorry, Bert. Ben made me do this.");
+            ThreadPool.GetAvailableThreads(out int workerThreadsAv, out int totalThreads);
+            ThreadPool.GetMaxThreads(out int workerThreadsMax, out int totalThreadsMax);
+            Log.Information($"Threadpool has {workerThreadsAv}/{workerThreadsMax} worker threads availableF");
+            Log.Information($"Threadpool has {totalThreads}/{totalThreadsMax} total threads availableF");
 
             Log.Information("Generating queries...");
             var queries = GenerateQueries(testSets, maxNumberOfTests);
@@ -102,7 +106,6 @@ namespace IRailStressTest
         {
             var dep = test.GetValue("departureStop").ToString();
             var arr = test.GetValue("arrivalStop").ToString();
-            var delay = int.Parse(test.GetValue("T").ToString());
             var depTime = DateTime.Parse(test.GetValue("departureTime").ToString());
 
 
@@ -119,14 +122,20 @@ namespace IRailStressTest
             var deadline = DateTime.Now.AddSeconds(timeOut);
 
             var results = new ConcurrentBag<string>();
+            /*
             foreach (var query in queries)
             {
                 results.Add(RunTestCase(query, deadline, spread));
-            }
-//            Parallel.ForEach(queries, (query) =>
-//            {
-//                results.Add(RunTestCase(query, deadline, spread));
-//            });
+            }/*/
+            Parallel.ForEach(queries, 
+                new ParallelOptions(){MaxDegreeOfParallelism = 192},
+                (query) =>
+            {
+                results.Add(RunTestCase(query, deadline, spread));
+                
+            });
+            
+            // */
 
             var resultStrings = new List<string>(results);
 
@@ -147,7 +156,7 @@ namespace IRailStressTest
             client.DefaultRequestHeaders.Add("user-agent",
                 "IRailStressTest-Anyways/0.0.1 (anyways.eu; pieter@anyways.eu)");
             client.DefaultRequestHeaders.Add("accept", "application/json");
-            client.Timeout = TimeSpan.FromMilliseconds(5000);
+            client.Timeout = TimeSpan.FromMilliseconds(15000);
 
             return client;
         });
@@ -209,7 +218,7 @@ namespace IRailStressTest
 
             var timeNeeded = (int) (end - start).TotalMilliseconds;
 
-         //           Log.Information($"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
+            //           Log.Information($"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
             return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}";
         }
 
