@@ -1,0 +1,101 @@
+QueryDate,QueryHour,NeededTimeMilliSec,ResponseLength,Query
+2018-11-14,11:08:44:1047,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008812146&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1524&timeSel=depart
+2018-11-14,11:08:46:1048,43780,9696,https://irail.be/route?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008811528&date=011218&time=1558&timeSel=depart
+2018-11-14,11:08:47:1049,15058,11157,https://irail.be/route?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1410&timeSel=depart
+2018-11-14,11:08:48:1048,34049,11385,https://irail.be/route?to=http://irail.be/stations/NMBS/008896503&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1612&timeSel=depart
+2018-11-14,11:08:51:1048,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1620&timeSel=depart
+2018-11-14,11:08:54:5993,8513,6111,https://irail.be/route?to=http://irail.be/stations/NMBS/008814423&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1457&timeSel=depart
+2018-11-14,11:08:56:1073,7006,26829,https://irail.be/route?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1606&timeSel=depart
+2018-11-14,11:08:57:1051,12012,6195,https://irail.be/route?to=http://irail.be/stations/NMBS/008814167&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1454&timeSel=depart
+2018-11-14,11:08:58:1048,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1459&timeSel=depart
+2018-11-14,11:08:58:6023,5511,17867,https://irail.be/route?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1552&timeSel=depart
+2018-11-14,11:08:59:1049,28028,17867,https://irail.be/route?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1542&timeSel=depart
+2018-11-14,11:09:00:1030,12017,9339,https://irail.be/route?to=http://irail.be/stations/NMBS/008896115&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1459&timeSel=depart
+2018-11-14,11:09:00:1050,16020,11703,https://irail.be/route?to=http://irail.be/stations/NMBS/008812062&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1504&timeSel=depart
+2018-11-14,11:09:00:1050,9013,8787,https://irail.be/route?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1453&timeSel=depart
+2018-11-14,11:09:02:1051,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008811445&from=http://irail.be/stations/NMBS/008874609&date=011218&time=1455&timeSel=depart
+2018-11-14,11:09:03:1056,9014,20952,https://irail.be/route?to=http://irail.be/stations/NMBS/008814332&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1457&timeSel=depart
+2018-11-14,11:09:04:0991,24277,12405,https://irail.be/route?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1457&timeSel=depart
+2018-11-14,11:09:07:1049,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1506&timeSel=depart
+2018-11-14,11:09:07:1155,4024,10451,https://irail.be/route?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1607&timeSel=depart
+2018-11-14,11:09:08:1062,6014,7787,https://irail.be/route?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1513&timeSel=depart
+2018-11-14,11:09:09:1067,10045,6033,https://irail.be/route?to=http://irail.be/stations/NMBS/008811437&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1506&timeSel=depart
+2018-11-14,11:09:09:1182,5003,17867,https://irail.be/route?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1600&timeSel=depart
+2018-11-14,11:09:09:6001,9552,5805,https://irail.be/route?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1505&timeSel=depart
+2018-11-14,11:09:10:1081,11046,6163,https://irail.be/route?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1548&timeSel=depart
+2018-11-14,11:09:12:1203,12047,21825,https://irail.be/route?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1251&timeSel=depart
+2018-11-14,11:09:12:6007,5526,5919,https://irail.be/route?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008821006&date=041218&time=1545&timeSel=depart
+2018-11-14,11:09:13:1048,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008896149&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1542&timeSel=depart
+2018-11-14,11:09:13:1257,5001,16213,https://irail.be/route?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1520&timeSel=depart
+2018-11-14,11:09:13:6014,10566,5559,https://irail.be/route?to=http://irail.be/stations/NMBS/008881166&from=http://irail.be/stations/NMBS/008883113&date=011218&time=1741&timeSel=depart
+2018-11-14,11:09:14:1037,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008883436&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1558&timeSel=depart
+2018-11-14,11:09:14:1208,6019,11907,https://irail.be/route?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008886074&date=011218&time=1558&timeSel=depart
+2018-11-14,11:09:14:1395,6000,13638,https://irail.be/route?to=http://irail.be/stations/NMBS/008811510&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1457&timeSel=depart
+2018-11-14,11:09:17:1633,3991,14158,https://irail.be/route?to=http://irail.be/stations/NMBS/008811718&from=http://irail.be/stations/NMBS/008814001&date=021218&time=0600&timeSel=depart
+2018-11-14,11:09:18:1202,4034,5794,https://irail.be/route?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1506&timeSel=depart
+2018-11-14,11:09:18:1263,6041,5757,https://irail.be/route?to=http://irail.be/stations/NMBS/008814431&from=http://irail.be/stations/NMBS/008814456&date=011218&time=1552&timeSel=depart
+2018-11-14,11:09:18:1642,4986,8895,https://irail.be/route?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1607&timeSel=depart
+2018-11-14,11:09:19:2268,5911,10586,https://irail.be/route?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1553&timeSel=depart
+2018-11-14,11:09:20:1134,7020,12948,https://irail.be/route?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1558&timeSel=depart
+2018-11-14,11:09:20:1358,5002,11637,https://irail.be/route?to=http://irail.be/stations/NMBS/008881166&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1453&timeSel=depart
+2018-11-14,11:09:21:1131,7036,8721,https://irail.be/route?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1500&timeSel=depart
+2018-11-14,11:09:21:1175,5023,11943,https://irail.be/route?to=http://irail.be/stations/NMBS/008811213&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1458&timeSel=depart
+2018-11-14,11:09:21:1281,6005,8793,https://irail.be/route?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1502&timeSel=depart
+2018-11-14,11:09:22:1275,6021,17097,https://irail.be/route?to=http://irail.be/stations/NMBS/008891660&from=http://irail.be/stations/NMBS/008896008&date=011218&time=1558&timeSel=depart
+2018-11-14,11:09:22:1528,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008865003&date=031218&time=1300&timeSel=depart
+2018-11-14,11:09:22:1549,6725,6698,https://irail.be/route?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1505&timeSel=depart
+2018-11-14,11:09:23:1255,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008814332&date=011218&time=1458&timeSel=depart
+2018-11-14,11:09:23:1399,6203,5871,https://irail.be/route?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1559&timeSel=depart
+2018-11-14,11:09:24:1343,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1558&timeSel=depart
+2018-11-14,11:09:24:1444,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1639&timeSel=depart
+2018-11-14,11:09:25:1408,5202,5505,https://irail.be/route?to=http://irail.be/stations/NMBS/008842002&from=http://irail.be/stations/NMBS/008842846&date=021218&time=0809&timeSel=depart
+2018-11-14,11:09:25:1411,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008821311&date=011218&time=1500&timeSel=depart
+2018-11-14,11:09:25:1652,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008811213&from=http://irail.be/stations/NMBS/008811007&date=011218&time=1459&timeSel=depart
+2018-11-14,11:09:26:1188,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1452&timeSel=depart
+2018-11-14,11:09:26:1509,4724,13375,https://irail.be/route?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1538&timeSel=depart
+2018-11-14,11:09:27:1316,4342,21981,https://irail.be/route?to=http://irail.be/stations/NMBS/008883212&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1602&timeSel=depart
+2018-11-14,11:09:29:1136,2733,6163,https://irail.be/route?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1548&timeSel=depart
+2018-11-14,11:09:29:1535,3265,11902,https://irail.be/route?to=http://irail.be/stations/NMBS/008832003&from=http://irail.be/stations/NMBS/008833233&date=021218&time=1702&timeSel=depart
+2018-11-14,11:09:30:1142,2761,5751,https://irail.be/route?to=http://irail.be/stations/NMBS/008812252&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-14,11:09:30:1563,3240,11337,https://irail.be/route?to=http://irail.be/stations/NMBS/008874716&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1456&timeSel=depart
+2018-11-14,11:09:30:1600,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008821717&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1520&timeSel=depart
+2018-11-14,11:09:31:1275,2753,5997,https://irail.be/route?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1554&timeSel=depart
+2018-11-14,11:09:31:1560,3199,6087,https://irail.be/route?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1659&timeSel=depart
+2018-11-14,11:09:32:1137,3294,13215,https://irail.be/route?to=http://irail.be/stations/NMBS/008884715&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1556&timeSel=depart
+2018-11-14,11:09:32:1152,2795,21651,https://irail.be/route?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008811247&date=011218&time=1504&timeSel=depart
+2018-11-14,11:09:32:1496,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1507&timeSel=depart
+2018-11-14,11:09:32:1684,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1458&timeSel=depart
+2018-11-14,11:09:33:1283,3803,5761,https://irail.be/route?to=http://irail.be/stations/NMBS/008891124&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1601&timeSel=depart
+2018-11-14,11:09:33:1291,0,ERROR The remote server returned an error: (503) Service Temporarily Unavailable.,https://irail.be/route?to=http://irail.be/stations/NMBS/008886074&from=http://irail.be/stations/NMBS/008812211&date=011218&time=1556&timeSel=depart
+2018-11-14,11:09:33:1425,3236,6698,https://irail.be/route?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-14,11:09:34:1688,0,ERROR The remote server returned an error: (500) Internal Server Error.,https://irail.be/route?to=http://irail.be/stations/NMBS/008822715&from=http://irail.be/stations/NMBS/008822004&date=280915&time=1339&timeSel=depart
+2018-11-14,11:09:35:1184,2215,5661,https://irail.be/route?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1502&timeSel=depart
+2018-11-14,11:09:36:1340,1778,10451,https://irail.be/route?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1602&timeSel=depart
+2018-11-14,11:09:38:1215,881,16848,https://irail.be/route?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008811676&date=011218&time=1549&timeSel=depart
+2018-11-14,11:09:38:1315,303,5725,https://irail.be/route?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1557&timeSel=depart
+2018-11-14,11:09:40:1333,1330,9503,https://irail.be/route?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1553&timeSel=depart
+2018-11-14,11:09:40:1412,1891,16385,https://irail.be/route?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1555&timeSel=depart
+2018-11-14,11:09:40:1498,1278,11157,https://irail.be/route?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-14,11:09:42:1544,274,9696,https://irail.be/route?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008811528&date=011218&time=1059&timeSel=depart
+2018-11-14,11:09:43:1221,265,6251,https://irail.be/route?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1502&timeSel=depart
+2018-11-14,11:09:44:1494,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008812021&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1456&timeSel=depart
+2018-11-14,11:09:44:1538,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1552&timeSel=depart
+2018-11-14,11:09:45:1500,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1530&timeSel=depart
+2018-11-14,11:09:48:1338,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008812062&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1900&timeSel=depart
+2018-11-14,11:09:48:1488,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1457&timeSel=depart
+2018-11-14,11:09:48:1563,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833308&date=011218&time=1453&timeSel=depart
+2018-11-14,11:09:49:1342,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008896149&from=http://irail.be/stations/NMBS/008896008&date=011218&time=1605&timeSel=depart
+2018-11-14,11:09:49:1406,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008884004&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1605&timeSel=depart
+2018-11-14,11:09:49:1489,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008896149&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1452&timeSel=depart
+2018-11-14,11:09:50:1469,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008842002&from=http://irail.be/stations/NMBS/008842846&date=021218&time=1000&timeSel=depart
+2018-11-14,11:09:50:1556,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1540&timeSel=depart
+2018-11-14,11:09:51:1337,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1455&timeSel=depart
+2018-11-14,11:09:51:1341,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008865003&from=http://irail.be/stations/NMBS/008822343&date=011218&time=1455&timeSel=depart
+2018-11-14,11:09:51:1386,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008872009&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1559&timeSel=depart
+2018-11-14,11:09:51:1424,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1530&timeSel=depart
+2018-11-14,11:09:51:1536,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008822608&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1130&timeSel=depart
+2018-11-14,11:09:51:1546,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1453&timeSel=depart
+2018-11-14,11:09:51:1722,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1601&timeSel=depart
+2018-11-14,11:09:51:1725,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1505&timeSel=depart
+2018-11-14,11:09:53:1462,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008893120&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1553&timeSel=depart
+2018-11-14,11:09:55:1710,0,TIMEOUT - NOT STARTED,https://irail.be/route?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1605&timeSel=depart

@@ -1,0 +1,9 @@
+#! /bin/bash
+
+mv *.csv archive/
+for i in {1..100}
+do
+	dotnet run -c release -- $i
+done
+
+cat *.csv | sort | all.csv

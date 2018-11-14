@@ -2578,13 +2578,12 @@
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/pietervdvn/.config/NuGet/NuGet.Config"
+        "/home/pietervdvn/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "/home/pietervdvn/git/json-ld.net/src/json-ld.net/bin/Release": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2602,7 +2601,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
