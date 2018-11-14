@@ -1,4 +1,5 @@
 **/bin/*
 **/obj/*
-idea/*
+.idea/*
 **.csv
+IRailStressTest/logs/*
