@@ -9,3 +9,14 @@
 /home/pietervdvn/git/IRailStressTest/IRailStressTest/bin/Debug/netcoreapp2.1/IRailStressTest.pdb
 /home/pietervdvn/git/IRailStressTest/IRailStressTest/obj/Debug/netcoreapp2.1/IRailStressTest.dll
 /home/pietervdvn/git/IRailStressTest/IRailStressTest/obj/Debug/netcoreapp2.1/IRailStressTest.pdb
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/bin/Debug/netcoreapp2.1/IRailStressTest.deps.json
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/bin/Debug/netcoreapp2.1/IRailStressTest.runtimeconfig.json
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/bin/Debug/netcoreapp2.1/IRailStressTest.runtimeconfig.dev.json
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/bin/Debug/netcoreapp2.1/IRailStressTest.dll
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/bin/Debug/netcoreapp2.1/IRailStressTest.pdb
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/obj/Debug/netcoreapp2.1/IRailStressTest.csprojAssemblyReference.cache
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/obj/Debug/netcoreapp2.1/IRailStressTest.csproj.CoreCompileInputs.cache
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/obj/Debug/netcoreapp2.1/IRailStressTest.AssemblyInfoInputs.cache
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/obj/Debug/netcoreapp2.1/IRailStressTest.AssemblyInfo.cs
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/obj/Debug/netcoreapp2.1/IRailStressTest.dll
+/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/obj/Debug/netcoreapp2.1/IRailStressTest.pdb

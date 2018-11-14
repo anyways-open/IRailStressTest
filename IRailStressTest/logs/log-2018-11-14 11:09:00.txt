@@ -1,0 +1,4 @@
+{"Timestamp":"2018-11-14T11:09:00.9323400+01:00","Level":"Information","MessageTemplate":"IRail Stresstest"}
+{"Timestamp":"2018-11-14T11:09:00.9601241+01:00","Level":"Information","MessageTemplate":"I'm sorry, Bert. Ben made me do this."}
+{"Timestamp":"2018-11-14T11:09:00.9604040+01:00","Level":"Information","MessageTemplate":"Generating queries..."}
+{"Timestamp":"2018-11-14T11:09:01.0109353+01:00","Level":"Information","MessageTemplate":"Unleashing the beast..."}

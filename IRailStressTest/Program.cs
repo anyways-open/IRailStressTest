@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -27,7 +28,7 @@ namespace IRailStressTest
 
             // We want a throughput of 200/s
             // This should run ~1minute
-            int maxNumberOfTests = 100;
+            int maxNumberOfTests = 1000;
             // After 'timeout' seconds, we'll stop testing
             int timeOut = 60;
             int spread = 30;
@@ -105,21 +106,41 @@ namespace IRailStressTest
         private static List<string> RunQueries(List<string> queries, int timeOut, int spread)
         {
             var deadline = DateTime.Now.AddSeconds(timeOut);
-            var results = queries.AsParallel().Select(query =>
-                Task.Factory.StartNew(state => RunTestCase((string) state, deadline, spread), query));
 
-            var resultArr = results.ToArray();
-            Task.WaitAll(resultArr);
-
-            var resultStrings = new List<string>();
-            foreach (var task in resultArr)
+            var results = new ConcurrentBag<string>();
+            foreach (var query in queries)
             {
-                resultStrings.Add(task.Result);
+                results.Add(RunTestCase(query, deadline, spread));
             }
+//            Parallel.ForEach(queries, (query) =>
+//            {
+//                results.Add(RunTestCase(query, deadline, spread));
+//            });
+
+            var resultStrings = new List<string>(results);
 
             return resultStrings;
         }
+        
+        private static Lazy<HttpClient> LocalHttpClient = new Lazy<HttpClient>(() =>
+        {
+            HttpClientHandler hch = new HttpClientHandler();
+            hch.Proxy = null;
+            hch.UseProxy = false;
+            hch.UseCookies = false;
+            hch.AllowAutoRedirect = false;
+            hch.PreAuthenticate = false;
+            hch.CheckCertificateRevocationList = false;
+            var client = new HttpClient(hch);
+            
+            client.DefaultRequestHeaders.Add("user-agent",
+                "IRailStressTest-Anyways/0.0.1 (anyways.eu; pieter@anyways.eu)");
+            client.DefaultRequestHeaders.Add("accept", "application/json");
+            client.Timeout = TimeSpan.FromMilliseconds(5000);
 
+            return client;
+        });
+        
         /// <summary>
         /// Runs the given testcase. Returns 
         /// </summary>
@@ -127,14 +148,12 @@ namespace IRailStressTest
         /// <returns>A comma-seperated string, containing {query start time},{time needed},{response size|FAILED},{query}</returns>
         public static string RunTestCase(string queryString, DateTime deadline, int spread)
         {
-            var client = new HttpClient();
-            client.DefaultRequestHeaders.Add("user-agent",
-                "IRailStressTest-Anyways/0.0.1 (anyways.eu; pieter@anyways.eu)");
-            client.DefaultRequestHeaders.Add("accept", "application/json");
-            client.Timeout = TimeSpan.FromMilliseconds(100000);
+            var client = LocalHttpClient.Value;
 
-            var wait = r.Next(0, spread);
-            Thread.Sleep(wait * 1000);
+//            var wait = r.Next(0, spread);
+//            Thread.Sleep(wait * 1000);
+
+            queryString = "http://files.itinero.tech/";
             
             var start = DateTime.Now;
             if (start > deadline)
@@ -145,7 +164,6 @@ namespace IRailStressTest
             HttpResponseMessage response = null;
             try
             {
-
                 response = client.GetAsync(new Uri(queryString))
                     .ConfigureAwait(false).GetAwaiter().GetResult();
             }
@@ -161,7 +179,6 @@ namespace IRailStressTest
                 }
                 
                 return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},0,ERROR {errMsg},{queryString}";
-
             }
             if (response == null || !response.IsSuccessStatusCode)
             {
@@ -179,6 +196,7 @@ namespace IRailStressTest
 
             var timeNeeded = (int) (end - start).TotalMilliseconds;
 
+            Log.Information($"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
             return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}";
         }
 

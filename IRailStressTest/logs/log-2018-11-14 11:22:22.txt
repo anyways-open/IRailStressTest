@@ -1,0 +1,16 @@
+{"Timestamp":"2018-11-14T11:22:22.8027175+01:00","Level":"Information","MessageTemplate":"IRail Stresstest"}
+{"Timestamp":"2018-11-14T11:22:22.8314505+01:00","Level":"Information","MessageTemplate":"I'm sorry, Bert. Ben made me do this."}
+{"Timestamp":"2018-11-14T11:22:22.8317236+01:00","Level":"Information","MessageTemplate":"Generating queries..."}
+{"Timestamp":"2018-11-14T11:22:22.8840897+01:00","Level":"Information","MessageTemplate":"Unleashing the beast..."}
+{"Timestamp":"2018-11-14T11:22:23.4731870+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:22:8987,574,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.5128298+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:23:4739,38,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.5372501+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:23:5131,23,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.5605851+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:23:5376,22,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.5841977+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:23:5610,23,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.6038587+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:23:5846,19,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.6180121+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:23:6044,13,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.6317514+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:23:6184,13,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.6560399+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:23:6322,23,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.6701640+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:22:23:6565,13,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}
+{"Timestamp":"2018-11-14T11:22:23.6718587+01:00","Level":"Information","MessageTemplate":"Writing results..."}
+{"Timestamp":"2018-11-14T11:22:23.6739328+01:00","Level":"Information","MessageTemplate":"Done. You can get your results by analyzing results-2018-11-14 11:22:22.csv"}

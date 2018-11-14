@@ -1,0 +1,16 @@
+{"Timestamp":"2018-11-14T11:14:15.1138226+01:00","Level":"Information","MessageTemplate":"IRail Stresstest"}
+{"Timestamp":"2018-11-14T11:14:15.1430238+01:00","Level":"Information","MessageTemplate":"I'm sorry, Bert. Ben made me do this."}
+{"Timestamp":"2018-11-14T11:14:15.1432980+01:00","Level":"Information","MessageTemplate":"Generating queries..."}
+{"Timestamp":"2018-11-14T11:14:15.1965934+01:00","Level":"Information","MessageTemplate":"Unleashing the beast..."}
+{"Timestamp":"2018-11-14T11:14:16.8195139+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:15:2155,1603,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:16.8195359+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:15:2155,1603,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:17.8695641+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:15:2156,2653,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:18.7034803+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:16:8198,1883,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:18.8680714+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:15:2155,3652,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:19.3157335+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:16:8201,2495,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:19.4659068+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:15:2155,4250,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:19.4659097+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:16:8168,2648,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:19.4860837+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:18:0332,1452,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:19.6302833+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:14:17:8702,1759,1299,http://files.itinero.tech/"}
+{"Timestamp":"2018-11-14T11:14:19.6315668+01:00","Level":"Information","MessageTemplate":"Writing results..."}
+{"Timestamp":"2018-11-14T11:14:19.6332433+01:00","Level":"Information","MessageTemplate":"Done. You can get your results by analyzing results-2018-11-14 11:14:15.csv"}

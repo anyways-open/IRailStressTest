@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/pietervdvn/git/IRailStressTest/IRailStressTest/IRailStressTest.csproj",
+    "projectUniqueName": "/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/IRailStressTest.csproj",
     "projectName": "IRailStressTest",
-    "projectPath": "/home/pietervdvn/git/IRailStressTest/IRailStressTest/IRailStressTest.csproj",
-    "outputPath": "/home/pietervdvn/git/IRailStressTest/IRailStressTest/obj/",
+    "projectPath": "/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/IRailStressTest.csproj",
+    "outputPath": "/home/xivk/work/anyways/projects/irail/IRailStressTest/IRailStressTest/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
