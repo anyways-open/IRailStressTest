@@ -6,10 +6,13 @@ for i in {1..100}
 do
 	dotnet run -c release -- $i &
 done
-for i in {1..100}
+
+
+TIMEOUT=500
+for i in {1..$TIMEOUT}
 do
 	sleep 1
-	echo $i/180
+	echo $i/$TIMEOUT
 done
 
 echo "Timeout passed. Mering csv files"
