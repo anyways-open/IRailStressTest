@@ -108,7 +108,7 @@ namespace IRailStressTest
 
             depTime.AddMinutes(timeDrift);
 
-            return $"https://api.irail.be/route?to={arr}&" +
+            return $"http://api.irail.be/route?to={arr}&" +
                    $"from={dep}&" +
                    $"date={depTime:ddMMyy}&time={depTime:HHmm}&" +
                    $"timeSel=depart";

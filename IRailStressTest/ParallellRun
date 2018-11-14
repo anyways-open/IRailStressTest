@@ -9,4 +9,4 @@ done
 
 sleep 180
 echo "Timeout passed. Mering csv files"
-cat *.csv | sort > "all $D.csv"
+cat *.csv | grep -v "QueryDate" | sort > "all $D.csv"
