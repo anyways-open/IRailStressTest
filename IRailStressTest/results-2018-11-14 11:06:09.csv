@@ -1,0 +1,101 @@
+QueryDate,QueryHour,NeededTimeMilliSec,ResponseLength,Query
+2018-11-14,11:06:09:8859,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:09:8860,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:09:8860,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:09:8860,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:10:8705,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:11:8712,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:12:8722,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:13:8727,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:14:8734,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:15:8824,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:16:8747,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:17:8758,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:18:8763,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:19:8770,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:20:8777,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:21:8785,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:22:8809,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:23:8793,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:24:8804,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:25:8804,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:26:8814,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:27:8919,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:28:8930,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:29:8935,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:30:8938,0,ERROR The operation was canceled.,http://files.itinero.tech/
+2018-11-14,11:06:31:8951,4479,1299,http://files.itinero.tech/
+2018-11-14,11:06:32:8948,3480,1299,http://files.itinero.tech/
+2018-11-14,11:06:33:8956,2480,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7461,2976,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7461,629,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7462,1817,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7463,1578,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7471,627,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7471,869,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7472,869,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7473,628,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7477,868,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7477,868,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7478,868,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7479,1330,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7482,868,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7485,2621,1299,http://files.itinero.tech/
+2018-11-14,11:06:35:7489,1328,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:1029,739,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:1034,739,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:1041,738,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:1075,972,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:1294,950,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:1296,949,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:3743,704,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:3750,702,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:3756,703,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:6162,709,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:6162,710,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:6162,947,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:6164,709,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:6164,711,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:6166,710,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:6177,947,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:6178,946,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:8433,721,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:8439,1004,1299,http://files.itinero.tech/
+2018-11-14,11:06:36:8453,719,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:0778,771,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:0779,765,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:0785,766,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:0786,771,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:0797,764,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:0797,765,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:0804,1018,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:3252,1044,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:3253,1044,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:3257,773,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:3261,772,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:3261,772,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:3268,1371,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:3271,1042,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:3274,1042,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:3275,771,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:5647,805,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:5652,804,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:5656,804,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8427,846,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8433,786,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8443,785,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8444,848,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8446,785,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8454,784,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8486,780,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8488,833,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8492,833,1299,http://files.itinero.tech/
+2018-11-14,11:06:37:8502,829,1299,http://files.itinero.tech/
+2018-11-14,11:06:38:0986,589,1299,http://files.itinero.tech/
+2018-11-14,11:06:38:0986,597,1299,http://files.itinero.tech/
+2018-11-14,11:06:38:0986,623,1299,http://files.itinero.tech/
+2018-11-14,11:06:38:0987,623,1299,http://files.itinero.tech/
+2018-11-14,11:06:38:0989,599,1299,http://files.itinero.tech/
+2018-11-14,11:06:38:3697,309,1299,http://files.itinero.tech/
+2018-11-14,11:06:38:3697,319,1299,http://files.itinero.tech/
+2018-11-14,11:06:38:3698,303,1299,http://files.itinero.tech/

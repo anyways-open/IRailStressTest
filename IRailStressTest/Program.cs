@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -20,7 +21,7 @@ namespace IRailStressTest
     class Program
     {
         private readonly static Random r = new Random();
-        
+
         static void Main(string[] args)
         {
             var testSets =
@@ -30,10 +31,10 @@ namespace IRailStressTest
                 testSets.Add(i.ToString());
             }
 
-            
+
             // We want a throughput of 200/s
             // This should run ~1minute
-            int maxNumberOfTests = 100;
+            int maxNumberOfTests = 1000;
             // After 'timeout' seconds, we'll stop testing
             int timeOut = 60;
             int spread = 30;
@@ -42,8 +43,9 @@ namespace IRailStressTest
             var index = "";
             if (args.Length > 0)
             {
-                index = "-"+args[0];
+                index = "-" + args[0];
             }
+
             var resultDestination = $"results-{DateTime.Now:yyyy-MM-dd HH:mm:ss}{index}.csv";
 
             EnableLogging();
@@ -56,13 +58,11 @@ namespace IRailStressTest
             var results = RunQueries(queries, timeOut, spread);
             Log.Information("Writing results...");
             results.Sort();
-            File.WriteAllLines(resultDestination, new List<string>{CsvHeader});
+            File.WriteAllLines(resultDestination, new List<string> {CsvHeader});
             File.AppendAllLines(resultDestination, results);
-            
-            Log.Information($"Done. You can get your results by analyzing {resultDestination}");
-            
-        }
 
+            Log.Information($"Done. You can get your results by analyzing {resultDestination}");
+        }
 
 
         private static List<string> GenerateQueries
@@ -113,25 +113,44 @@ namespace IRailStressTest
                    $"date={depTime:ddMMyy}&time={depTime:HHmm}&" +
                    $"timeSel=depart";
         }
-        
+
         private static List<string> RunQueries(List<string> queries, int timeOut, int spread)
         {
             var deadline = DateTime.Now.AddSeconds(timeOut);
-            ThreadPool.SetMaxThreads(1000000000, 100000000);
-            var results = queries.AsParallel().Select(query =>
-                Task.Factory.StartNew(state => RunTestCase((string) state, deadline, spread), query));
 
-            var resultArr = results.ToArray();
-            Task.WaitAll(resultArr);
-
-            var resultStrings = new List<string>();
-            foreach (var task in resultArr)
+            var results = new ConcurrentBag<string>();
+            foreach (var query in queries)
             {
-                resultStrings.Add(task.Result);
+                results.Add(RunTestCase(query, deadline, spread));
             }
+//            Parallel.ForEach(queries, (query) =>
+//            {
+//                results.Add(RunTestCase(query, deadline, spread));
+//            });
+
+            var resultStrings = new List<string>(results);
 
             return resultStrings;
         }
+
+        private static Lazy<HttpClient> LocalHttpClient = new Lazy<HttpClient>(() =>
+        {
+            HttpClientHandler hch = new HttpClientHandler();
+            hch.Proxy = null;
+            hch.UseProxy = false;
+            hch.UseCookies = false;
+            hch.AllowAutoRedirect = false;
+            hch.PreAuthenticate = false;
+            hch.CheckCertificateRevocationList = false;
+            var client = new HttpClient(hch);
+
+            client.DefaultRequestHeaders.Add("user-agent",
+                "IRailStressTest-Anyways/0.0.1 (anyways.eu; pieter@anyways.eu)");
+            client.DefaultRequestHeaders.Add("accept", "application/json");
+            client.Timeout = TimeSpan.FromMilliseconds(5000);
+
+            return client;
+        });
 
         /// <summary>
         /// Runs the given testcase. Returns 
@@ -140,30 +159,25 @@ namespace IRailStressTest
         /// <returns>A comma-seperated string, containing {query start time},{time needed},{response size|FAILED},{query}</returns>
         public static string RunTestCase(string queryString, DateTime deadline, int spread)
         {
-            var client = new WebClient();
-            client.Headers.Add("user-agent",
-                "IRailStressTest-Anyways/0.0.1 (anyways.eu; pieter@anyways.eu)");
-            client.Headers.Add("accept", "application/json");
-            // client.Timeout = TimeSpan.FromMilliseconds(100000);
+            var client = LocalHttpClient.Value;
 
-            var wait = r.Next(0, spread);
-            // Thread.Sleep(wait * 1000);
-            
+//            var wait = r.Next(0, spread);
+//            Thread.Sleep(wait * 1000);
+
+
             var start = DateTime.Now;
             if (start > deadline)
             {
                 return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},0,TIMEOUT - NOT STARTED,{queryString}";
             }
 
-            var response = "";
+            HttpResponseMessage response = null;
             try
             {
-
-                response = client.DownloadString(queryString);
-                //GetAsync(new Uri(queryString))
-                  //  .ConfigureAwait(false).GetAwaiter().GetResult();
+                response = client.GetAsync(new Uri(queryString))
+                    .ConfigureAwait(false).GetAwaiter().GetResult();
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 Log.Information(e.ToString());
 
@@ -173,27 +187,30 @@ namespace IRailStressTest
                     e = e.InnerException;
                     errMsg += ": " + e.Message;
                 }
-                
-                return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},0,ERROR {errMsg},{queryString}";
 
+                return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},0,ERROR {errMsg},{queryString}";
             }
-/*            if (response == null || !response.IsSuccessStatusCode)
+
+            if (response == null || !response.IsSuccessStatusCode)
             {
                 var endFailed = DateTime.Now;
 
                 var timeNeededFailed = (int) (endFailed - start).TotalMilliseconds;
-                
-                return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeededFailed},FAILED HTTP:{response?.StatusCode},{queryString}";
+
+                return
+                    $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeededFailed},FAILED HTTP:{response?.StatusCode},{queryString}";
             }
+
             var data = response.Content.ReadAsStringAsync()
                 .ConfigureAwait(false).GetAwaiter().GetResult();
-*/
+
 
             var end = DateTime.Now;
 
             var timeNeeded = (int) (end - start).TotalMilliseconds;
 
-            return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{response.Length},{queryString}";
+         //           Log.Information($"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
+            return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}";
         }
 
 
