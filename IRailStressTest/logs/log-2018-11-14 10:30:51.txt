@@ -1,0 +1,6 @@
+{"Timestamp":"2018-11-14T10:30:51.3873168+01:00","Level":"Information","MessageTemplate":"IRail Stresstest"}
+{"Timestamp":"2018-11-14T10:30:51.4110066+01:00","Level":"Information","MessageTemplate":"I'm sorry, Bert. Ben made me do this."}
+{"Timestamp":"2018-11-14T10:30:51.4111719+01:00","Level":"Information","MessageTemplate":"Generating queries..."}
+{"Timestamp":"2018-11-14T10:30:51.4536728+01:00","Level":"Information","MessageTemplate":"Unleashing the beast..."}
+{"Timestamp":"2018-11-14T10:32:01.5122414+01:00","Level":"Information","MessageTemplate":"Writing results..."}
+{"Timestamp":"2018-11-14T10:32:01.5139444+01:00","Level":"Information","MessageTemplate":"Done. You can get your results by analyzing results-2018-11-14 10:30:51.csv"}

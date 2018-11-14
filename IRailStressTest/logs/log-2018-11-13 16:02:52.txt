@@ -1,0 +1,105 @@
+{"Timestamp":"2018-11-13T16:02:52.5703272+01:00","Level":"Information","MessageTemplate":"IRail Stresstest"}
+{"Timestamp":"2018-11-13T16:02:52.5979626+01:00","Level":"Information","MessageTemplate":"204 testcases loaded"}
+{"Timestamp":"2018-11-13T16:02:52.6367490+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008883436&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1558&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:02:54.6038022+01:00","Level":"Information","MessageTemplate":"Running tests 1/12000; 2s/60s"}
+{"Timestamp":"2018-11-13T16:02:54.6040064+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008814332&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1457&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:02:55.7463030+01:00","Level":"Information","MessageTemplate":"Running tests 2/12000; 3s/60s"}
+{"Timestamp":"2018-11-13T16:02:55.7464168+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1606&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:02:57.7151995+01:00","Level":"Information","MessageTemplate":"Running tests 3/12000; 5s/60s"}
+{"Timestamp":"2018-11-13T16:02:57.7155724+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1553&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:02:58.5252267+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008811718&from=http://irail.be/stations/NMBS/008814001&date=021218&time=0600&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:02:59.4611534+01:00","Level":"Information","MessageTemplate":"Running tests 5/12000; 6s/60s"}
+{"Timestamp":"2018-11-13T16:02:59.4614853+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1500&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:00.5739124+01:00","Level":"Information","MessageTemplate":"Running tests 6/12000; 7s/60s"}
+{"Timestamp":"2018-11-13T16:03:00.5742255+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008884715&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1556&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:01.1517268+01:00","Level":"Information","MessageTemplate":"Running tests 7/12000; 8s/60s"}
+{"Timestamp":"2018-11-13T16:03:01.1520744+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1548&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:01.5768283+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1453&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:02.7448888+01:00","Level":"Information","MessageTemplate":"Running tests 9/12000; 10s/60s"}
+{"Timestamp":"2018-11-13T16:03:02.7451830+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008821717&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1520&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:03.1659234+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008811247&date=011218&time=1504&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:04.8754178+01:00","Level":"Information","MessageTemplate":"Running tests 11/12000; 12s/60s"}
+{"Timestamp":"2018-11-13T16:03:04.8756874+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1520&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:06.0575008+01:00","Level":"Information","MessageTemplate":"Running tests 12/12000; 13s/60s"}
+{"Timestamp":"2018-11-13T16:03:06.0576279+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008891124&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1601&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:07.5312152+01:00","Level":"Information","MessageTemplate":"Running tests 13/12000; 14s/60s"}
+{"Timestamp":"2018-11-13T16:03:07.5315064+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008883212&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1602&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:08.5994366+01:00","Level":"Information","MessageTemplate":"Running tests 14/12000; 16s/60s"}
+{"Timestamp":"2018-11-13T16:03:08.5997779+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008811510&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1457&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:09.5654544+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1559&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:10.5879620+01:00","Level":"Information","MessageTemplate":"Running tests 16/12000; 17s/60s"}
+{"Timestamp":"2018-11-13T16:03:10.5881766+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1506&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:11.0681009+01:00","Level":"Information","MessageTemplate":"Running tests 17/12000; 18s/60s"}
+{"Timestamp":"2018-11-13T16:03:11.0683523+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008812062&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1504&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:12.2967110+01:00","Level":"Information","MessageTemplate":"Running tests 18/12000; 19s/60s"}
+{"Timestamp":"2018-11-13T16:03:12.2968146+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008811437&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1506&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:13.4229818+01:00","Level":"Information","MessageTemplate":"Running tests 19/12000; 20s/60s"}
+{"Timestamp":"2018-11-13T16:03:13.4233297+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1600&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:14.7192638+01:00","Level":"Information","MessageTemplate":"Running tests 20/12000; 22s/60s"}
+{"Timestamp":"2018-11-13T16:03:14.7194954+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1502&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:15.2703726+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008814431&from=http://irail.be/stations/NMBS/008814456&date=011218&time=1552&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:17.6568518+01:00","Level":"Information","MessageTemplate":"Running tests 22/12000; 25s/60s"}
+{"Timestamp":"2018-11-13T16:03:17.6571564+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1557&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:18.4667832+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008814332&date=011218&time=1458&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:19.7013107+01:00","Level":"Information","MessageTemplate":"Running tests 24/12000; 27s/60s"}
+{"Timestamp":"2018-11-13T16:03:19.7017103+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1554&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:20.4809681+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1607&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:20.9908853+01:00","Level":"Information","MessageTemplate":"Running tests 26/12000; 28s/60s"}
+{"Timestamp":"2018-11-13T16:03:20.9912741+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008896503&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1612&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:21.9997351+01:00","Level":"Information","MessageTemplate":"Running tests 27/12000; 29s/60s"}
+{"Timestamp":"2018-11-13T16:03:22.0001448+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1607&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:22.7893999+01:00","Level":"Information","MessageTemplate":"Running tests 28/12000; 30s/60s"}
+{"Timestamp":"2018-11-13T16:03:22.7895136+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1558&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:23.7820651+01:00","Level":"Information","MessageTemplate":"Running tests 29/12000; 31s/60s"}
+{"Timestamp":"2018-11-13T16:03:23.7824171+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008886074&from=http://irail.be/stations/NMBS/008812211&date=011218&time=1556&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:24.4890542+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008832003&from=http://irail.be/stations/NMBS/008833233&date=021218&time=1702&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:25.5544511+01:00","Level":"Information","MessageTemplate":"Running tests 31/12000; 32s/60s"}
+{"Timestamp":"2018-11-13T16:03:25.5547829+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1552&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:26.5412671+01:00","Level":"Information","MessageTemplate":"Running tests 32/12000; 33s/60s"}
+{"Timestamp":"2018-11-13T16:03:26.5414728+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1639&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:28.0896082+01:00","Level":"Information","MessageTemplate":"Running tests 33/12000; 35s/60s"}
+{"Timestamp":"2018-11-13T16:03:28.0897528+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008884004&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1605&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:29.4968279+01:00","Level":"Information","MessageTemplate":"Running tests 34/12000; 36s/60s"}
+{"Timestamp":"2018-11-13T16:03:29.4971569+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008842002&from=http://irail.be/stations/NMBS/008842846&date=021218&time=0809&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:31.0152211+01:00","Level":"Information","MessageTemplate":"Running tests 35/12000; 38s/60s"}
+{"Timestamp":"2018-11-13T16:03:31.0156622+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1542&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:31.6107774+01:00","Level":"Information","MessageTemplate":"Running tests 36/12000; 39s/60s"}
+{"Timestamp":"2018-11-13T16:03:31.6111466+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1558&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:32.7374966+01:00","Level":"Information","MessageTemplate":"Running tests 37/12000; 40s/60s"}
+{"Timestamp":"2018-11-13T16:03:32.7378214+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1502&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:33.4851025+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1452&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:34.4901658+01:00","Level":"Information","MessageTemplate":"Running tests 39/12000; 41s/60s"}
+{"Timestamp":"2018-11-13T16:03:34.4905370+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1659&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:35.4669265+01:00","Level":"Information","MessageTemplate":"Running tests 40/12000; 42s/60s"}
+{"Timestamp":"2018-11-13T16:03:35.4670336+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1540&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:38.1003756+01:00","Level":"Information","MessageTemplate":"Running tests 41/12000; 45s/60s"}
+{"Timestamp":"2018-11-13T16:03:38.1007446+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008874716&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1456&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:39.2739733+01:00","Level":"Information","MessageTemplate":"Running tests 42/12000; 46s/60s"}
+{"Timestamp":"2018-11-13T16:03:39.2743275+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1458&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:40.4903254+01:00","Level":"Information","MessageTemplate":"Running tests 43/12000; 47s/60s"}
+{"Timestamp":"2018-11-13T16:03:40.4906617+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1506&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:43.1630226+01:00","Level":"Information","MessageTemplate":"Running tests 44/12000; 50s/60s"}
+{"Timestamp":"2018-11-13T16:03:43.1633370+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008814167&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1454&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:44.1810913+01:00","Level":"Information","MessageTemplate":"Running tests 45/12000; 51s/60s"}
+{"Timestamp":"2018-11-13T16:03:44.1815194+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008886074&date=011218&time=1558&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:45.3346258+01:00","Level":"Information","MessageTemplate":"Running tests 46/12000; 52s/60s"}
+{"Timestamp":"2018-11-13T16:03:45.3349741+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1505&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:45.7826540+01:00","Level":"Information","MessageTemplate":"Running tests 47/12000; 53s/60s"}
+{"Timestamp":"2018-11-13T16:03:45.7830413+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1538&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:47.0840894+01:00","Level":"Information","MessageTemplate":"Running tests 48/12000; 54s/60s"}
+{"Timestamp":"2018-11-13T16:03:47.0844757+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008822715&from=http://irail.be/stations/NMBS/008822004&date=280915&time=1339&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:47.6884736+01:00","Level":"Information","MessageTemplate":"Running tests 49/12000; 55s/60s"}
+{"Timestamp":"2018-11-13T16:03:47.6888854+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1601&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:48.7249346+01:00","Level":"Information","MessageTemplate":"Running tests 50/12000; 56s/60s"}
+{"Timestamp":"2018-11-13T16:03:48.7252485+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1505&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:49.3294813+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008811528&date=011218&time=1558&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:50.3115898+01:00","Level":"Information","MessageTemplate":"Running tests 52/12000; 57s/60s"}
+{"Timestamp":"2018-11-13T16:03:50.3118465+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008811676&date=011218&time=1549&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:51.1980193+01:00","Level":"Information","MessageTemplate":"Running tests 53/12000; 58s/60s"}
+{"Timestamp":"2018-11-13T16:03:51.1982316+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1453&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:52.3989651+01:00","Level":"Information","MessageTemplate":"Running tests 54/12000; 59s/60s"}
+{"Timestamp":"2018-11-13T16:03:52.3992517+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008822608&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1130&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:53.2884980+01:00","Level":"Information","MessageTemplate":"Running tests 55/12000; 60s/60s"}
+{"Timestamp":"2018-11-13T16:03:53.2887538+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008872009&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1559&timeSel=depart"}
+{"Timestamp":"2018-11-13T16:03:53.7444010+01:00","Level":"Information","MessageTemplate":"Running tests 56/12000; 61s/60s"}
+{"Timestamp":"2018-11-13T16:03:53.7447067+01:00","Level":"Information","MessageTemplate":"Runtime exceeded. Quitting"}
