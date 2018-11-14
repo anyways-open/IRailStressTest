@@ -1,9 +1,12 @@
 #! /bin/bash
 
 mv *.csv archive/
+D=`date +"%Y-%m-%d %H:%M:%S"`
 for i in {1..100}
 do
-	dotnet run -c release -- $i
+	dotnet run -c release -- $i &
 done
 
-cat *.csv | sort | all.csv
+sleep 180
+echo "Timeout passed. Mering csv files"
+cat *.csv | sort > "all $D.csv"
