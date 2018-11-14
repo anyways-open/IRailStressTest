@@ -15,6 +15,6 @@ do
 		TOTAL=`cat all*.csv | grep ":$M:$S" | wc -l`
 		FAIL=`cat all*.csv | grep ":$M:$S" | grep "FAILED" | wc -l`
 		SUCCESS=`echo $((TOTAL-FAIL))`
-		echo "Total: $TOTAL, Success: $SUCCESS, Failed: $FAIL"
+		echo "$M:$S Total: $TOTAL, Success: $SUCCESS, Failed: $FAIL"
 	done
 done 
