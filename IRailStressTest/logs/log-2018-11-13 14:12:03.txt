@@ -1,2 +1,0 @@
-{"Timestamp":"2018-11-13T14:12:03.6715808+01:00","Level":"Information","MessageTemplate":"IRail Stresstest"}
-{"Timestamp":"2018-11-13T14:12:03.6940223+01:00","Level":"Information","MessageTemplate":"4 testcases loaded"}

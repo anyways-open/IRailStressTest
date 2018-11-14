@@ -24,6 +24,13 @@ namespace IRailStressTest
 
         static void Main(string[] args)
         {
+            MainAsync(args).Wait();
+            // or, if you want to avoid exceptions being wrapped into AggregateException:
+            //  MainAsync().GetAwaiter().GetResult();
+        }
+
+        static async Task MainAsync(string[] args)
+        {
             var testSets =
                 new List<string>();
             for (int i = 0; i <= 17; i++)
@@ -32,12 +39,21 @@ namespace IRailStressTest
             }
 
 
+            ThreadPool.GetMaxThreads(out var workerThreads, out var completionPortThreads);
+            Console.WriteLine($"{workerThreads},{completionPortThreads}");
+            ThreadPool.SetMaxThreads(workerThreads, workerThreads / 2);
+            System.Net.ServicePointManager.DefaultConnectionLimit = 100;
+
             // We want a throughput of 200/s
             // This should run ~1minute
             int maxNumberOfTests = 1000;
             // After 'timeout' seconds, we'll stop testing
+            // 
+            int target = 4; // queries per second
+            int spread = maxNumberOfTests / target;
+            spread = 10;
             int timeOut = 60;
-            int spread = 30;
+            
 
 
             var index = "";
@@ -46,7 +62,7 @@ namespace IRailStressTest
                 index = "-" + args[0];
             }
 
-            var resultDestination = $"results-{DateTime.Now:yyyy-MM-dd HH:mm:ss}{index}.csv";
+            var resultDestination = $"results-{DateTime.Now:yyyy-MM-dd_HHmmss}{index}.csv";
 
             EnableLogging();
             Log.Information("IRail Stresstest");
@@ -59,7 +75,7 @@ namespace IRailStressTest
             Log.Information("Generating queries...");
             var queries = GenerateQueries(testSets, maxNumberOfTests);
             Log.Information("Unleashing the beast...");
-            var results = RunQueries(queries, timeOut, spread);
+            var results = await RunQueries(queries, timeOut, spread);
             Log.Information("Writing results...");
             results.Sort();
             File.WriteAllLines(resultDestination, new List<string> {CsvHeader});
@@ -117,32 +133,60 @@ namespace IRailStressTest
                    $"timeSel=depart";
         }
 
-        private static List<string> RunQueries(List<string> queries, int timeOut, int spread)
+        private static async Task<List<string>> RunQueries(List<string> queries, int timeOut, int spread)
         {
             var deadline = DateTime.Now.AddSeconds(timeOut);
 
             var results = new ConcurrentBag<string>();
-            /*
-            foreach (var query in queries)
+            var tasks = new Task[queries.Count];
+            /* for (var i = 0; i < tasks.Length; i++)
+             {
+                 results.Add(RunTestCase(query, deadline, spread));
+             }/* //
+             Parallel.ForEach(queries, 
+                 new ParallelOptions(){MaxDegreeOfParallelism = queries.Count},
+                 (query) =>
+             {
+                 results.Add(RunTestCase(query, deadline, spread, 0));
+                 
+             });
+             
+             // */
+            for (var i = 0; i < tasks.Length; i++)
             {
-                results.Add(RunTestCase(query, deadline, spread));
-            }/*/
-            Parallel.ForEach(queries, 
-                new ParallelOptions(){MaxDegreeOfParallelism = queries.Count},
-                (query) =>
-            {
-                results.Add(RunTestCase(query, deadline, spread));
-                
-            });
-            
-            // */
+                var query = queries[i];
+                var name = i.ToString();
+                tasks[i] = Task.Run(async () =>
+                {
+                    var result = await RunTestCase(query, deadline, spread, i);
+                    results.Add(result);
+                });
+            }
+
+            Task.WaitAll(tasks);
+            //foreach (var query in queries)
+            //{
+            //    results.Add(await RunTestCase(query, deadline, spread));
+            //}
+            //Parallel.For(0, queries.Count, async i =>
+            //{
+            //    var query = queries[i];
+            //    Log.Information($"Doing {i}");
+            //    var result = await Task.Run<string>(() => { return  });
+            //    Log.Information($"Result {i}: {result}");
+            //    results.Add(result);
+            //});
+            //Parallel.ForEach(queries, async (query) =>
+            //{
+            //    results.Add(await RunTestCase(query, deadline, spread));
+            //});
 
             var resultStrings = new List<string>(results);
 
             return resultStrings;
         }
 
-        private static Lazy<HttpClient> LocalHttpClient = new Lazy<HttpClient>(() =>
+        private static ThreadLocal<HttpClient> LocalHttpClient = new ThreadLocal<HttpClient>(() =>
         {
             HttpClientHandler hch = new HttpClientHandler();
             hch.Proxy = null;
@@ -151,12 +195,13 @@ namespace IRailStressTest
             hch.AllowAutoRedirect = false;
             hch.PreAuthenticate = false;
             hch.CheckCertificateRevocationList = false;
+            hch.MaxConnectionsPerServer = 1000;
             var client = new HttpClient(hch);
 
             client.DefaultRequestHeaders.Add("user-agent",
                 "IRailStressTest-Anyways/0.0.1 (anyways.eu; pieter@anyways.eu)");
             client.DefaultRequestHeaders.Add("accept", "application/json");
-            client.Timeout = TimeSpan.FromMilliseconds(15000);
+            client.Timeout = TimeSpan.FromMilliseconds(10000000);
 
             return client;
         });
@@ -166,13 +211,14 @@ namespace IRailStressTest
         /// </summary>
         /// <param name="test">The JSON-object containing the test data</param>
         /// <returns>A comma-seperated string, containing {query start time},{time needed},{response size|FAILED},{query}</returns>
-        public static string RunTestCase(string queryString, DateTime deadline, int spread)
+        public static async Task<string> RunTestCase(string queryString, DateTime deadline, int spread, int name)
         {
             var client = LocalHttpClient.Value;
 
-            var wait = r.Next(0, spread*1000);
-            Thread.Sleep(wait);
+            var wait = r.Next(0, spread * 1000);
+            Task.Delay(wait);
 
+            //queryString = "http://files.itinero.tech/";
 
             var start = DateTime.Now;
             if (start > deadline)
@@ -183,8 +229,7 @@ namespace IRailStressTest
             HttpResponseMessage response = null;
             try
             {
-                response = client.GetAsync(new Uri(queryString))
-                    .ConfigureAwait(false).GetAwaiter().GetResult();
+                response = await client.GetAsync(new Uri(queryString));
             }
             catch (Exception e)
             {
@@ -210,15 +255,13 @@ namespace IRailStressTest
                     $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeededFailed},FAILED HTTP:{response?.StatusCode},{queryString}";
             }
 
-            var data = response.Content.ReadAsStringAsync()
-                .ConfigureAwait(false).GetAwaiter().GetResult();
-
+            var data = await response.Content.ReadAsStringAsync();
 
             var end = DateTime.Now;
 
             var timeNeeded = (int) (end - start).TotalMilliseconds;
 
-            //           Log.Information($"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
+            Log.Information($"{name}:{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{end:yyyy-MM-dd},{end:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
             return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}";
         }
 
