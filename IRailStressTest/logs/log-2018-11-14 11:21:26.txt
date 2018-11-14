@@ -1,5 +1,0 @@
-{"Timestamp":"2018-11-14T11:21:26.8164683+01:00","Level":"Information","MessageTemplate":"IRail Stresstest"}
-{"Timestamp":"2018-11-14T11:21:26.8438383+01:00","Level":"Information","MessageTemplate":"I'm sorry, Bert. Ben made me do this."}
-{"Timestamp":"2018-11-14T11:21:26.8441010+01:00","Level":"Information","MessageTemplate":"Generating queries..."}
-{"Timestamp":"2018-11-14T11:21:26.8934209+01:00","Level":"Information","MessageTemplate":"Unleashing the beast..."}
-{"Timestamp":"2018-11-14T11:21:27.1870416+01:00","Level":"Information","MessageTemplate":"2018-11-14,11:21:26:9068,280,26077,http://tiles.itinero.tech/14/8398/5463.geojson"}

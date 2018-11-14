@@ -1,5 +1,0 @@
-{"Timestamp":"2018-11-13T14:41:21.7393993+01:00","Level":"Information","MessageTemplate":"IRail Stresstest"}
-{"Timestamp":"2018-11-13T14:41:21.7602576+01:00","Level":"Information","MessageTemplate":"3 testcases loaded"}
-{"Timestamp":"2018-11-13T14:41:21.8040623+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008883436&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1558&timeSel=depart"}
-{"Timestamp":"2018-11-13T14:41:21.8244739+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008814332&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1457&timeSel=depart"}
-{"Timestamp":"2018-11-13T14:41:21.8246976+01:00","Level":"Information","MessageTemplate":"https://irail.be/route?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1606&timeSel=depart"}
