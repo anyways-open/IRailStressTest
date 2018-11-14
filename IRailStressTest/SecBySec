@@ -1,0 +1,20 @@
+for M in {20..25}
+do
+	for S in {0..59}
+	do
+		if [ $S -lt 10 ]
+		then
+			S="0$S"
+		fi
+
+		if [ $M -lt 10 ]
+		then
+			M="0$M"
+		fi
+
+		TOTAL=`cat all*.csv | grep ":$M:$S" | wc -l`
+		FAIL=`cat all*.csv | grep ":$M:$S" | grep "FAILED" | wc -l`
+		SUCCESS=`$((TOTAL-FAIL))`
+		echo "Total: $TOTAL, Success: $SUCCESS, Failed: $FAIL"
+	done
+done 
