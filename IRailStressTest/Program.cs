@@ -34,7 +34,7 @@ namespace IRailStressTest
 
             // We want a throughput of 200/s
             // This should run ~1minute
-            int maxNumberOfTests = 100;
+            int maxNumberOfTests = 1000;
             // After 'timeout' seconds, we'll stop testing
             int timeOut = 60;
             int spread = 30;
@@ -128,7 +128,7 @@ namespace IRailStressTest
                 results.Add(RunTestCase(query, deadline, spread));
             }/*/
             Parallel.ForEach(queries, 
-                new ParallelOptions(){MaxDegreeOfParallelism = 192},
+                new ParallelOptions(){MaxDegreeOfParallelism = queries.Count},
                 (query) =>
             {
                 results.Add(RunTestCase(query, deadline, spread));
@@ -170,8 +170,8 @@ namespace IRailStressTest
         {
             var client = LocalHttpClient.Value;
 
-//            var wait = r.Next(0, spread);
-//            Thread.Sleep(wait * 1000);
+            var wait = r.Next(0, spread*1000);
+            Thread.Sleep(wait);
 
 
             var start = DateTime.Now;
