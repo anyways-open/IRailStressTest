@@ -6,7 +6,11 @@ for i in {1..100}
 do
 	dotnet run -c release -- $i &
 done
+for i in {1..100}
+do
+	sleep 1
+	echo $i/180
+done
 
-sleep 180
 echo "Timeout passed. Mering csv files"
 cat *.csv | grep -v "QueryDate" | sort > "all $D.csv"

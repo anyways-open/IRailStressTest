@@ -46,7 +46,7 @@ namespace IRailStressTest
 
             // We want a throughput of 200/s
             // This should run ~1minute
-            int maxNumberOfTests = 1000;
+            int maxNumberOfTests = 100;
             // After 'timeout' seconds, we'll stop testing
             int timeOut = 60;
             int spread = 30;
@@ -63,6 +63,10 @@ namespace IRailStressTest
             EnableLogging();
             Log.Information("IRail Stresstest");
             Log.Information("I'm sorry, Bert. Ben made me do this.");
+            ThreadPool.GetAvailableThreads(out int workerThreadsAv, out int totalThreads);
+            ThreadPool.GetMaxThreads(out int workerThreadsMax, out int totalThreadsMax);
+            Log.Information($"Threadpool has {workerThreadsAv}/{workerThreadsMax} worker threads availableF");
+            Log.Information($"Threadpool has {totalThreads}/{totalThreadsMax} total threads availableF");
 
             Log.Information("Generating queries...");
             var queries = GenerateQueries(testSets, maxNumberOfTests);
@@ -114,7 +118,6 @@ namespace IRailStressTest
         {
             var dep = test.GetValue("departureStop").ToString();
             var arr = test.GetValue("arrivalStop").ToString();
-            var delay = int.Parse(test.GetValue("T").ToString());
             var depTime = DateTime.Parse(test.GetValue("departureTime").ToString());
 
 
@@ -159,7 +162,6 @@ namespace IRailStressTest
             //{
             //    results.Add(await RunTestCase(query, deadline, spread));
             //});
-
 
             var resultStrings = new List<string>(results);
 
