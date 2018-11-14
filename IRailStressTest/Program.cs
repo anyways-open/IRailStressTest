@@ -49,11 +49,10 @@ namespace IRailStressTest
             int maxNumberOfTests = 1000;
             // After 'timeout' seconds, we'll stop testing
             // 
-            int target = 4; // queries per second
-            int spread = maxNumberOfTests / target;
-            spread = 10;
-            int timeOut = 60;
-            
+            int target = 400; // queries per second
+            target = target / 100; // Divided by number of started processesss
+            int spread = maxNumberOfTests / target; // around 250 sec
+            int timeOut = spread * 2;
 
 
             var index = "";
@@ -139,19 +138,7 @@ namespace IRailStressTest
 
             var results = new ConcurrentBag<string>();
             var tasks = new Task[queries.Count];
-            /* for (var i = 0; i < tasks.Length; i++)
-             {
-                 results.Add(RunTestCase(query, deadline, spread));
-             }/* //
-             Parallel.ForEach(queries, 
-                 new ParallelOptions(){MaxDegreeOfParallelism = queries.Count},
-                 (query) =>
-             {
-                 results.Add(RunTestCase(query, deadline, spread, 0));
-                 
-             });
-             
-             // */
+
             for (var i = 0; i < tasks.Length; i++)
             {
                 var query = queries[i];
@@ -164,22 +151,6 @@ namespace IRailStressTest
             }
 
             Task.WaitAll(tasks);
-            //foreach (var query in queries)
-            //{
-            //    results.Add(await RunTestCase(query, deadline, spread));
-            //}
-            //Parallel.For(0, queries.Count, async i =>
-            //{
-            //    var query = queries[i];
-            //    Log.Information($"Doing {i}");
-            //    var result = await Task.Run<string>(() => { return  });
-            //    Log.Information($"Result {i}: {result}");
-            //    results.Add(result);
-            //});
-            //Parallel.ForEach(queries, async (query) =>
-            //{
-            //    results.Add(await RunTestCase(query, deadline, spread));
-            //});
 
             var resultStrings = new List<string>(results);
 
@@ -216,9 +187,7 @@ namespace IRailStressTest
             var client = LocalHttpClient.Value;
 
             var wait = r.Next(0, spread * 1000);
-            Task.Delay(wait);
-
-            //queryString = "http://files.itinero.tech/";
+            await Task.Delay(wait);
 
             var start = DateTime.Now;
             if (start > deadline)
@@ -261,7 +230,8 @@ namespace IRailStressTest
 
             var timeNeeded = (int) (end - start).TotalMilliseconds;
 
-            Log.Information($"{name}:{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{end:yyyy-MM-dd},{end:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
+    //        Log.Information(
+  //              $"{name}:{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{end:yyyy-MM-dd},{end:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
             return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}";
         }
 
