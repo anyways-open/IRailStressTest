@@ -13,8 +13,9 @@ do
 		fi
 
 		TOTAL=`cat all*.csv | grep ":$M:$S" | wc -l`
-		FAIL=`cat all*.csv | grep ":$M:$S" | grep "FAILED" | wc -l`
+		FAIL=`cat all*.csv | grep ":$M:$S" | grep "FAILED" | grep -v "NotFound" | wc -l`
+		NOROUTE=`cat all*.csv | grep ":$M:$S" | grep "NotFound" | wc -l`
 		SUCCESS=`echo $((TOTAL-FAIL))`
-		echo "$M:$S Total: $TOTAL, Success: $SUCCESS, Failed: $FAIL"
+		echo "$M:$S Total: $TOTAL, Success: $SUCCESS, NoResult: $NOROUTE, Failed: $FAIL"
 	done
 done 
