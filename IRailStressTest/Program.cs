@@ -50,7 +50,7 @@ namespace IRailStressTest
 
             // We want a throughput of 200/s
             // This should run ~1minute
-            int maxNumberOfTests = 1000;
+            int maxNumberOfTests = 100;
             // After 'timeout' seconds, we'll stop testing
             // 
             int target = 400; // queries per second
@@ -206,8 +206,6 @@ namespace IRailStressTest
             }
             catch (Exception e)
             {
-                Log.Information(e.ToString());
-
                 var errMsg = e.Message;
                 while (e.InnerException != null)
                 {
