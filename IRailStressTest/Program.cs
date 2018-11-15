@@ -24,7 +24,10 @@ namespace IRailStressTest
 
         static void Main(string[] args)
         {
-            System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12 | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls
+            System.Net.ServicePointManager.SecurityProtocol =
+                SecurityProtocolType.Tls12 | 
+                SecurityProtocolType.Tls11 | 
+                SecurityProtocolType.Tls;
             MainAsync(args).Wait();
             // or, if you want to avoid exceptions being wrapped into AggregateException:
             //  MainAsync().GetAwaiter().GetResult();
@@ -231,8 +234,8 @@ namespace IRailStressTest
 
             var timeNeeded = (int) (end - start).TotalMilliseconds;
 
-    //        Log.Information(
-  //              $"{name}:{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{end:yyyy-MM-dd},{end:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
+            //        Log.Information(
+            //              $"{name}:{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{end:yyyy-MM-dd},{end:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}");
             return $"{start:yyyy-MM-dd},{start:HH:mm:ss:ffff},{timeNeeded},{data.Length},{queryString}";
         }
 
