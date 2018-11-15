@@ -9,7 +9,8 @@ done
 
 for i in {1..600}
 do
-	ehco "Running analysis in $i sec"
+	sleep 1
+	echo "Running analysis in $i sec"
 done
 
 ./Analyze.sh
