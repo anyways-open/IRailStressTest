@@ -12,14 +12,14 @@ do
 			M="0$M"
 		fi
 
-		TOTAL=`cat all*.csv | grep ":$M:$S" | wc -l`
-		FAIL=`cat all*.csv | grep ":$M:$S" | grep "FAILED" | grep -v "NotFound" | wc -l`
-		NOROUTE=`cat all*.csv | grep ":$M:$S" | grep "NotFound" | wc -l`
-		ERR=`cat all*.csv | grep ":$M:$S" | grep "ERROR" | wc -l`
+		TOTAL=`cat all*.csv | grep ":$M:$S:" | wc -l`
+		FAIL=`cat all*.csv | grep ":$M:$S:" | grep "FAILED" | grep -v "NotFound" | wc -l`
+		NOROUTE=`cat all*.csv | grep ":$M:$S:" | grep "NotFound" | wc -l`
+		ERR=`cat all*.csv | grep ":$M:$S:" | grep "ERROR" | wc -l`
 			SUCCESS=`echo $((TOTAL-FAIL))`
-		if [ $TOTAL -gt 0 ]
+		if [ $TOTAL -gt 0 ]	
 		then	
-		echo "$M:$S Total: $TOTAL, Success: $SUCCESS, NoResult: $NOROUTE, Failed: $FAIL, Error: $ERR"
+		echo "*:$M:$S:* Total: $TOTAL, Success: $SUCCESS, NoResult: $NOROUTE, Failed: $FAIL, Error: $ERR"
 		fi
 	done
 done 
