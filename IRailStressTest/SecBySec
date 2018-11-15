@@ -16,7 +16,7 @@ do
 		FAIL=`cat all*.csv | grep ":$M:$S:" | grep "FAILED" | grep -v "NotFound" | wc -l`
 		NOROUTE=`cat all*.csv | grep ":$M:$S:" | grep "NotFound" | wc -l`
 		ERR=`cat all*.csv | grep ":$M:$S:" | grep "ERROR" | wc -l`
-			SUCCESS=`echo $((TOTAL-FAIL))`
+			SUCCESS=`echo $((TOTAL-FAIL-ERR))`
 		if [ $TOTAL -gt 0 ]	
 		then	
 		echo "*:$M:$S:* Total: $TOTAL, Success: $SUCCESS, NoResult: $NOROUTE, Failed: $FAIL, Error: $ERR"

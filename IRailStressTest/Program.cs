@@ -24,6 +24,7 @@ namespace IRailStressTest
 
         static void Main(string[] args)
         {
+            System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12 | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls
             MainAsync(args).Wait();
             // or, if you want to avoid exceptions being wrapped into AggregateException:
             //  MainAsync().GetAwaiter().GetResult();
