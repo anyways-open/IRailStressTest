@@ -1,5 +1,6 @@
 #! /bin/bash
 
+mkdir archive
 mv *.csv archive/
 for i in {1..100}
 do
@@ -9,6 +10,6 @@ done
 for i in {1..600}
 do
 	ehco "Running analysis in $i sec"
-echo
+done
 
 ./Analyze.sh

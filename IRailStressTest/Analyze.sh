@@ -18,7 +18,7 @@ cat all*.csv | grep "FAILED" | wc -l
 
 
 echo -n "SUCCESSFULL: "
-cat allg PAr	*.csv | grep -v "TIMEOUT" | grep -v "FAILED" | grep -v "ERROR" | wc -l
+cat all*.csv | grep -v "TIMEOUT" | grep -v "FAILED" | grep -v "ERROR" | wc -l
 
 echo -n "TOTAL: "
 cat all*.csv | wc -l
