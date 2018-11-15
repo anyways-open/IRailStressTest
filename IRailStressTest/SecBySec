@@ -1,4 +1,4 @@
-for M in {20..25}
+for M in {0..59}
 do
 	for S in {0..59}
 	do
@@ -15,7 +15,11 @@ do
 		TOTAL=`cat all*.csv | grep ":$M:$S" | wc -l`
 		FAIL=`cat all*.csv | grep ":$M:$S" | grep "FAILED" | grep -v "NotFound" | wc -l`
 		NOROUTE=`cat all*.csv | grep ":$M:$S" | grep "NotFound" | wc -l`
-		SUCCESS=`echo $((TOTAL-FAIL))`
-		echo "$M:$S Total: $TOTAL, Success: $SUCCESS, NoResult: $NOROUTE, Failed: $FAIL"
+		ERR=`cat all*.csv | grep ":$M:$S" | grep "ERROR" | wc -l`
+			SUCCESS=`echo $((TOTAL-FAIL))`
+		if [ $TOTAL -gt 0 ]
+		then	
+		echo "$M:$S Total: $TOTAL, Success: $SUCCESS, NoResult: $NOROUTE, Failed: $FAIL, Error: $ERR"
+		fi
 	done
 done 
