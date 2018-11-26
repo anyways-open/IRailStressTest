@@ -1,0 +1,1001 @@
+QueryDate,QueryHour,NeededTimeMilliSec,ResponseLength,Query
+2018-11-15,14:30:36:0815,2167,5620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821535&from=http://irail.be/stations/NMBS/008821006&date=021218&time=1550&timeSel=depart
+2018-11-15,14:30:36:1976,2510,5956,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811130&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1553&timeSel=depart
+2018-11-15,14:30:37:3253,1025,5932,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1604&timeSel=depart
+2018-11-15,14:30:37:5419,10282,10266,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1602&timeSel=depart
+2018-11-15,14:30:37:7854,1781,15895,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891702&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1452&timeSel=depart
+2018-11-15,14:30:38:0251,1975,22412,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1955&timeSel=depart
+2018-11-15,14:30:38:6135,2149,5710,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008884541&date=011218&time=1605&timeSel=depart
+2018-11-15,14:30:38:9030,2617,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1605&timeSel=depart
+2018-11-15,14:30:39:6354,30,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1453&timeSel=depart
+2018-11-15,14:30:39:7217,2721,9853,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-15,14:30:39:7570,2849,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895448&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1343&timeSel=depart
+2018-11-15,14:30:39:8114,121,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893039&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1454&timeSel=depart
+2018-11-15,14:30:39:8877,2762,15946,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833605&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1807&timeSel=depart
+2018-11-15,14:30:40:0300,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891124&from=http://irail.be/stations/NMBS/008891009&date=021218&time=0615&timeSel=depart
+2018-11-15,14:30:40:1065,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814431&from=http://irail.be/stations/NMBS/008814456&date=011218&time=1552&timeSel=depart
+2018-11-15,14:30:40:1368,28,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822111&from=http://irail.be/stations/NMBS/008811221&date=011218&time=1502&timeSel=depart
+2018-11-15,14:30:40:4092,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811536&from=http://irail.be/stations/NMBS/008811510&date=011218&time=1551&timeSel=depart
+2018-11-15,14:30:40:5656,2610,5697,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821600&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1505&timeSel=depart
+2018-11-15,14:30:40:9502,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008814258&date=011218&time=1557&timeSel=depart
+2018-11-15,14:30:41:6336,2141,24184,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1251&timeSel=depart
+2018-11-15,14:30:41:6782,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1600&timeSel=depart
+2018-11-15,14:30:41:8167,2917,8450,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1500&timeSel=depart
+2018-11-15,14:30:42:2871,2157,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1457&timeSel=depart
+2018-11-15,14:30:42:3666,133,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896925&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1623&timeSel=depart
+2018-11-15,14:30:42:4660,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008874716&date=011218&time=1557&timeSel=depart
+2018-11-15,14:30:42:6334,2128,24070,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883212&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1602&timeSel=depart
+2018-11-15,14:30:42:7258,28,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822111&from=http://irail.be/stations/NMBS/008811221&date=011218&time=1545&timeSel=depart
+2018-11-15,14:30:42:7505,2549,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1453&timeSel=depart
+2018-11-15,14:30:42:7729,2856,8111,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1525&timeSel=depart
+2018-11-15,14:30:43:0538,2554,25717,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1603&timeSel=depart
+2018-11-15,14:30:43:2896,2544,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895448&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1553&timeSel=depart
+2018-11-15,14:30:43:6732,135,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832433&from=http://irail.be/stations/NMBS/008832565&date=011218&time=1454&timeSel=depart
+2018-11-15,14:30:43:8407,28,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1615&timeSel=depart
+2018-11-15,14:30:43:8553,2442,13349,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1452&timeSel=depart
+2018-11-15,14:30:43:9357,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1552&timeSel=depart
+2018-11-15,14:30:44:2132,2015,5737,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812047&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1500&timeSel=depart
+2018-11-15,14:30:44:3297,3258,5927,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1455&timeSel=depart
+2018-11-15,14:30:44:6063,2457,10948,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008811007&date=011218&time=1555&timeSel=depart
+2018-11-15,14:30:44:6408,2410,8091,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008821121&date=021218&time=0605&timeSel=depart
+2018-11-15,14:30:45:4531,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1604&timeSel=depart
+2018-11-15,14:30:45:8317,1750,8386,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1607&timeSel=depart
+2018-11-15,14:30:46:1111,2005,26951,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008866001&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1548&timeSel=depart
+2018-11-15,14:30:46:3196,2650,13265,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1458&timeSel=depart
+2018-11-15,14:30:46:4012,2432,23696,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891314&from=http://irail.be/stations/NMBS/008896370&date=011218&time=1459&timeSel=depart
+2018-11-15,14:30:46:4488,3174,9629,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1458&timeSel=depart
+2018-11-15,14:30:46:4773,4192,9165,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1601&timeSel=depart
+2018-11-15,14:30:46:7371,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892304&from=http://irail.be/stations/NMBS/008896909&date=011218&time=1515&timeSel=depart
+2018-11-15,14:30:47:2157,2342,5944,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1554&timeSel=depart
+2018-11-15,14:30:47:3791,2262,5927,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1457&timeSel=depart
+2018-11-15,14:30:47:3896,4462,5954,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814258&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-15,14:30:47:5450,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822269&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1454&timeSel=depart
+2018-11-15,14:30:48:1688,3822,5814,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811916&date=021218&time=2210&timeSel=depart
+2018-11-15,14:30:49:3032,2550,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1459&timeSel=depart
+2018-11-15,14:30:49:6958,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821535&from=http://irail.be/stations/NMBS/008893013&date=021218&time=1550&timeSel=depart
+2018-11-15,14:30:49:8412,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008819406&from=http://irail.be/stations/NMBS/008892007&date=111115&time=1215&timeSel=depart
+2018-11-15,14:30:49:8527,2561,7458,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008866845&from=http://irail.be/stations/NMBS/008865003&date=011218&time=1504&timeSel=depart
+2018-11-15,14:30:50:2211,3687,10266,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1502&timeSel=depart
+2018-11-15,14:30:50:2527,2458,11922,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008832433&date=011218&time=1605&timeSel=depart
+2018-11-15,14:30:50:2892,2751,9252,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863503&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1600&timeSel=depart
+2018-11-15,14:30:50:3487,2567,6067,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811304&from=http://irail.be/stations/NMBS/008861200&date=021218&time=0403&timeSel=depart
+2018-11-15,14:30:50:6533,2575,11990,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1554&timeSel=depart
+2018-11-15,14:30:50:6730,2873,12430,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008892601&date=011218&time=1606&timeSel=depart
+2018-11-15,14:30:50:7408,2456,5844,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1453&timeSel=depart
+2018-11-15,14:30:50:9553,3496,9769,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008811528&date=011218&time=1059&timeSel=depart
+2018-11-15,14:30:51:8527,4234,12901,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008841202&date=011218&time=1502&timeSel=depart
+2018-11-15,14:30:52:0456,2432,5850,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1453&timeSel=depart
+2018-11-15,14:30:52:0731,2660,6040,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1602&timeSel=depart
+2018-11-15,14:30:52:2007,2595,5905,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811916&from=http://irail.be/stations/NMBS/008861200&date=021218&time=0403&timeSel=depart
+2018-11-15,14:30:52:5613,3525,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1458&timeSel=depart
+2018-11-15,14:30:52:5687,2524,7948,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1544&timeSel=depart
+2018-11-15,14:30:52:6731,2688,13522,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863834&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1501&timeSel=depart
+2018-11-15,14:30:52:7686,2560,10398,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-15,14:30:52:9051,3427,5668,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008873122&from=http://irail.be/stations/NMBS/008872009&date=011218&time=1455&timeSel=depart
+2018-11-15,14:30:53:6757,3485,5730,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1455&timeSel=depart
+2018-11-15,14:30:53:9091,3664,11740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812062&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1504&timeSel=depart
+2018-11-15,14:30:54:0677,2594,23544,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892304&from=http://irail.be/stations/NMBS/008896909&date=011218&time=1545&timeSel=depart
+2018-11-15,14:30:54:5142,1903,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008811197&date=011218&time=1559&timeSel=depart
+2018-11-15,14:30:54:7127,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008866845&from=http://irail.be/stations/NMBS/008865003&date=011218&time=1458&timeSel=depart
+2018-11-15,14:30:55:7495,3698,5884,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1852&timeSel=depart
+2018-11-15,14:30:56:5129,1521,13060,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892320&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1550&timeSel=depart
+2018-11-15,14:30:56:9696,3106,5560,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811536&from=http://irail.be/stations/NMBS/008811510&date=011218&time=1551&timeSel=depart
+2018-11-15,14:30:57:0981,1199,6028,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008872009&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1552&timeSel=depart
+2018-11-15,14:30:57:3426,3010,6028,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008872009&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1600&timeSel=depart
+2018-11-15,14:30:57:4691,1360,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822475&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1504&timeSel=depart
+2018-11-15,14:30:57:6617,2868,7792,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894201&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1500&timeSel=depart
+2018-11-15,14:30:57:7663,5237,5725,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861200&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1559&timeSel=depart
+2018-11-15,14:30:58:0449,2800,10266,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1504&timeSel=depart
+2018-11-15,14:30:58:1535,1445,15920,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1603&timeSel=depart
+2018-11-15,14:30:58:4611,4441,5759,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1455&timeSel=depart
+2018-11-15,14:30:58:8516,1030,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008819406&from=http://irail.be/stations/NMBS/008892007&date=071115&time=1315&timeSel=depart
+2018-11-15,14:30:59:0090,4628,6040,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1504&timeSel=depart
+2018-11-15,14:30:59:0133,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832433&from=http://irail.be/stations/NMBS/008832565&date=011218&time=1500&timeSel=depart
+2018-11-15,14:30:59:2727,1178,6112,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008814209&date=011218&time=1604&timeSel=depart
+2018-11-15,14:30:59:7255,3764,9901,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1552&timeSel=depart
+2018-11-15,14:30:59:7492,2801,12799,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1507&timeSel=depart
+2018-11-15,14:30:59:8737,2657,6791,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008893401&date=011218&time=2052&timeSel=depart
+2018-11-15,14:30:59:8942,2919,5746,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844008&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1330&timeSel=depart
+2018-11-15,14:30:59:9128,3887,5797,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821311&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1506&timeSel=depart
+2018-11-15,14:31:00:3291,1311,5620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841400&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1558&timeSel=depart
+2018-11-15,14:31:00:4095,2985,5884,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1752&timeSel=depart
+2018-11-15,14:31:00:5088,2636,5647,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008881000&date=021218&time=0530&timeSel=depart
+2018-11-15,14:31:00:6486,2772,11636,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008874609&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1453&timeSel=depart
+2018-11-15,14:31:00:8691,2434,5767,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861200&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1607&timeSel=depart
+2018-11-15,14:31:00:8735,2844,12589,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:01:4089,3375,7676,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1437&timeSel=depart
+2018-11-15,14:31:01:5175,2285,5638,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821717&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1520&timeSel=depart
+2018-11-15,14:31:01:5819,3403,5578,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811460&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1558&timeSel=depart
+2018-11-15,14:31:01:5855,2426,9196,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811304&from=http://irail.be/stations/NMBS/008814266&date=011218&time=1459&timeSel=depart
+2018-11-15,14:31:01:6302,2884,14901,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008872587&from=http://irail.be/stations/NMBS/008814209&date=011218&time=1556&timeSel=depart
+2018-11-15,14:31:01:8016,1212,5632,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008863461&date=011218&time=1605&timeSel=depart
+2018-11-15,14:31:01:8017,1451,5932,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1548&timeSel=depart
+2018-11-15,14:31:02:3501,128,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1545&timeSel=depart
+2018-11-15,14:31:02:3654,2163,6028,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008872009&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1550&timeSel=depart
+2018-11-15,14:31:02:4573,2981,6136,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1500&timeSel=depart
+2018-11-15,14:31:02:7137,2635,10317,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1553&timeSel=depart
+2018-11-15,14:31:02:9742,2924,9076,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1605&timeSel=depart
+2018-11-15,14:31:03:5289,3618,18202,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1538&timeSel=depart
+2018-11-15,14:31:03:6937,2916,11725,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1559&timeSel=depart
+2018-11-15,14:31:04:5454,2332,13062,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1503&timeSel=depart
+2018-11-15,14:31:05:2780,3997,10266,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1506&timeSel=depart
+2018-11-15,14:31:05:3054,3681,8821,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812146&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:05:5819,2540,5896,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814266&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1505&timeSel=depart
+2018-11-15,14:31:05:6014,2267,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008866001&from=http://irail.be/stations/NMBS/008866662&date=011218&time=1503&timeSel=depart
+2018-11-15,14:31:05:7978,2937,8350,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008813003&date=021218&time=1814&timeSel=depart
+2018-11-15,14:31:05:8294,1743,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822475&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:05:8294,3930,5872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812021&from=http://irail.be/stations/NMBS/008812245&date=011218&time=1605&timeSel=depart
+2018-11-15,14:31:06:0099,1705,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895448&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1557&timeSel=depart
+2018-11-15,14:31:06:0624,1772,5776,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883436&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1556&timeSel=depart
+2018-11-15,14:31:06:4652,2285,5827,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1559&timeSel=depart
+2018-11-15,14:31:06:5809,2291,8386,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1500&timeSel=depart
+2018-11-15,14:31:06:7995,1281,6176,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1557&timeSel=depart
+2018-11-15,14:31:06:9270,2047,13185,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008872009&date=021218&time=1415&timeSel=depart
+2018-11-15,14:31:07:0914,3092,12175,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821600&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1455&timeSel=depart
+2018-11-15,14:31:07:4049,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1459&timeSel=depart
+2018-11-15,14:31:07:8376,3975,12107,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008777300&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1558&timeSel=depart
+2018-11-15,14:31:07:8613,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822608&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1130&timeSel=depart
+2018-11-15,14:31:07:8689,1480,18535,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1501&timeSel=depart
+2018-11-15,14:31:08:0775,2366,5809,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861200&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1601&timeSel=depart
+2018-11-15,14:31:08:7849,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1554&timeSel=depart
+2018-11-15,14:31:08:9055,3209,14446,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1552&timeSel=depart
+2018-11-15,14:31:09:0060,3579,5704,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821634&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1458&timeSel=depart
+2018-11-15,14:31:09:1255,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811445&from=http://irail.be/stations/NMBS/008874609&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:09:1333,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811916&from=http://irail.be/stations/NMBS/008863115&date=011218&time=1557&timeSel=depart
+2018-11-15,14:31:09:4328,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892304&from=http://irail.be/stations/NMBS/008896909&date=011218&time=1530&timeSel=depart
+2018-11-15,14:31:09:4933,2356,5560,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821816&from=http://irail.be/stations/NMBS/008821600&date=011218&time=1502&timeSel=depart
+2018-11-15,14:31:09:5098,2126,6084,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1455&timeSel=depart
+2018-11-15,14:31:09:6262,1095,5782,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812021&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1456&timeSel=depart
+2018-11-15,14:31:10:0088,2092,5780,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822269&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:10:5515,2364,20169,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008883808&date=021218&time=0452&timeSel=depart
+2018-11-15,14:31:10:6270,2514,21960,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822111&from=http://irail.be/stations/NMBS/008811221&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:10:8215,2480,5728,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1556&timeSel=depart
+2018-11-15,14:31:10:8258,2711,8845,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812120&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1502&timeSel=depart
+2018-11-15,14:31:11:7464,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1514&timeSel=depart
+2018-11-15,14:31:11:9927,3451,10606,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:12:3373,2352,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1601&timeSel=depart
+2018-11-15,14:31:12:4219,1429,5767,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861200&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1601&timeSel=depart
+2018-11-15,14:31:12:9893,1793,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1606&timeSel=depart
+2018-11-15,14:31:13:4609,1015,5898,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=021218&time=0808&timeSel=depart
+2018-11-15,14:31:13:4653,2800,9082,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895505&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1557&timeSel=depart
+2018-11-15,14:31:13:9378,2975,6124,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1503&timeSel=depart
+2018-11-15,14:31:14:2862,1247,5776,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1600&timeSel=depart
+2018-11-15,14:31:14:7066,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894508&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1513&timeSel=depart
+2018-11-15,14:31:14:8901,2642,5620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882339&from=http://irail.be/stations/NMBS/008882107&date=011218&time=1557&timeSel=depart
+2018-11-15,14:31:14:9495,3828,5698,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831807&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:15:1567,3946,5940,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1505&timeSel=depart
+2018-11-15,14:31:15:3374,2369,5704,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821634&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1459&timeSel=depart
+2018-11-15,14:31:15:4049,3018,12271,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008895208&date=011218&time=0731&timeSel=depart
+2018-11-15,14:31:15:6594,4009,5993,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1553&timeSel=depart
+2018-11-15,14:31:16:3687,2119,7948,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1559&timeSel=depart
+2018-11-15,14:31:16:6451,3684,11290,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008821519&date=011218&time=1458&timeSel=depart
+2018-11-15,14:31:16:8637,3069,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008822517&date=300915&time=0920&timeSel=depart
+2018-11-15,14:31:17:6930,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008822004&date=250915&time=1425&timeSel=depart
+2018-11-15,14:31:17:7895,2414,5620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844503&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1342&timeSel=depart
+2018-11-15,14:31:17:9941,1367,8375,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895430&from=http://irail.be/stations/NMBS/008812005&date=041218&time=1400&timeSel=depart
+2018-11-15,14:31:18:1326,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1456&timeSel=depart
+2018-11-15,14:31:18:3170,4122,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008846201&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1558&timeSel=depart
+2018-11-15,14:31:18:3365,3127,5716,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812245&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1545&timeSel=depart
+2018-11-15,14:31:18:3611,2482,9076,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1456&timeSel=depart
+2018-11-15,14:31:18:3688,3287,8300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:18:4373,2036,18922,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1455&timeSel=depart
+2018-11-15,14:31:18:4649,2215,5470,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821659&from=http://irail.be/stations/NMBS/008821600&date=011218&time=1452&timeSel=depart
+2018-11-15,14:31:18:6168,2407,5566,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832433&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:18:6371,2591,11644,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896503&from=http://irail.be/stations/NMBS/008813003&date=011218&time=0940&timeSel=depart
+2018-11-15,14:31:18:6696,2957,18922,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1452&timeSel=depart
+2018-11-15,14:31:18:7972,2509,5500,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884335&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1354&timeSel=depart
+2018-11-15,14:31:18:9810,1119,5946,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008883311&date=011218&time=0511&timeSel=depart
+2018-11-15,14:31:19:2837,2745,26557,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894714&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1506&timeSel=depart
+2018-11-15,14:31:19:4383,2955,5646,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008872009&from=http://irail.be/stations/NMBS/008872413&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:19:5647,2730,5500,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832458&from=http://irail.be/stations/NMBS/008821717&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:19:6692,2702,18784,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891660&from=http://irail.be/stations/NMBS/008896008&date=011218&time=1558&timeSel=depart
+2018-11-15,14:31:20:1738,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1552&timeSel=depart
+2018-11-15,14:31:20:4572,3290,18156,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1520&timeSel=depart
+2018-11-15,14:31:20:8286,2999,5898,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=021218&time=0808&timeSel=depart
+2018-11-15,14:31:21:0732,1293,12010,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008875002&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1557&timeSel=depart
+2018-11-15,14:31:21:2095,2671,5992,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008895869&date=021218&time=0645&timeSel=depart
+2018-11-15,14:31:21:5781,2511,5770,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811916&date=021218&time=0957&timeSel=depart
+2018-11-15,14:31:21:6177,3033,5500,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884335&from=http://irail.be/stations/NMBS/008881000&date=021218&time=1330&timeSel=depart
+2018-11-15,14:31:21:8051,2644,5860,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814266&from=http://irail.be/stations/NMBS/008813003&date=021218&time=1148&timeSel=depart
+2018-11-15,14:31:22:4616,2952,15496,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892627&from=http://irail.be/stations/NMBS/008833001&date=031218&time=0454&timeSel=depart
+2018-11-15,14:31:22:6062,2505,11740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1745&timeSel=depart
+2018-11-15,14:31:22:8767,2699,5932,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882230&from=http://irail.be/stations/NMBS/008882206&date=011218&time=1503&timeSel=depart
+2018-11-15,14:31:22:9851,2339,8186,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1530&timeSel=depart
+2018-11-15,14:31:23:0048,2783,7980,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:23:0413,4134,5500,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884335&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1407&timeSel=depart
+2018-11-15,14:31:23:2498,3170,5950,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884004&from=http://irail.be/stations/NMBS/008885704&date=011218&time=1501&timeSel=depart
+2018-11-15,14:31:23:4503,1094,5914,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811916&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1456&timeSel=depart
+2018-11-15,14:31:23:6777,1494,5702,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008882206&date=011218&time=1545&timeSel=depart
+2018-11-15,14:31:23:8941,2314,5458,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008842002&from=http://irail.be/stations/NMBS/008842846&date=021218&time=0809&timeSel=depart
+2018-11-15,14:31:24:0776,2473,5715,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821600&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1525&timeSel=depart
+2018-11-15,14:31:24:4499,2301,10266,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1501&timeSel=depart
+2018-11-15,14:31:24:7904,2701,12928,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891702&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1549&timeSel=depart
+2018-11-15,14:31:24:9188,2524,5710,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821600&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1525&timeSel=depart
+2018-11-15,14:31:25:0133,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1535&timeSel=depart
+2018-11-15,14:31:25:1377,1314,18066,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892627&from=http://irail.be/stations/NMBS/008833001&date=031218&time=0620&timeSel=depart
+2018-11-15,14:31:25:3050,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1453&timeSel=depart
+2018-11-15,14:31:25:6735,2475,14882,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1538&timeSel=depart
+2018-11-15,14:31:25:8382,2459,5740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1955&timeSel=depart
+2018-11-15,14:31:26:2146,3267,5689,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812047&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1459&timeSel=depart
+2018-11-15,14:31:27:1021,1598,10709,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812062&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:27:1167,4174,11636,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008874609&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:27:2171,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1606&timeSel=depart
+2018-11-15,14:31:27:6607,2500,11200,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832433&from=http://irail.be/stations/NMBS/008821725&date=011218&time=1502&timeSel=depart
+2018-11-15,14:31:28:0194,3095,24426,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008811247&date=011218&time=1501&timeSel=depart
+2018-11-15,14:31:28:5198,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891702&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1555&timeSel=depart
+2018-11-15,14:31:28:7532,3088,16469,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008893120&date=011218&time=0935&timeSel=depart
+2018-11-15,14:31:29:1089,2471,5898,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=021218&time=0808&timeSel=depart
+2018-11-15,14:31:29:2115,2854,14812,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008819406&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1602&timeSel=depart
+2018-11-15,14:31:29:2340,2732,5719,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008892007&date=051218&time=0557&timeSel=depart
+2018-11-15,14:31:29:5933,2485,16955,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892205&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1559&timeSel=depart
+2018-11-15,14:31:29:8457,2761,17775,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811221&from=http://irail.be/stations/NMBS/008822111&date=011218&time=1505&timeSel=depart
+2018-11-15,14:31:31:0661,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861531&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1500&timeSel=depart
+2018-11-15,14:31:31:3905,1523,5710,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814266&from=http://irail.be/stations/NMBS/008814142&date=011218&time=1453&timeSel=depart
+2018-11-15,14:31:31:8860,2582,16036,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896925&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1553&timeSel=depart
+2018-11-15,14:31:31:9054,4251,5932,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1553&timeSel=depart
+2018-11-15,14:31:31:9141,2993,5752,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811445&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-15,14:31:32:0215,1141,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008896008&date=300915&time=0400&timeSel=depart
+2018-11-15,14:31:32:8889,2808,22160,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833159&from=http://irail.be/stations/NMBS/008892320&date=011218&time=1553&timeSel=depart
+2018-11-15,14:31:33:0915,2810,15619,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822053&from=http://irail.be/stations/NMBS/008833001&date=021218&time=1155&timeSel=depart
+2018-11-15,14:31:33:3510,1707,8450,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:33:5705,3101,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1459&timeSel=depart
+2018-11-15,14:31:33:9490,2401,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1556&timeSel=depart
+2018-11-15,14:31:33:9595,2558,6135,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1602&timeSel=depart
+2018-11-15,14:31:33:9950,2949,5824,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1505&timeSel=depart
+2018-11-15,14:31:34:6215,1305,8732,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008821311&date=011218&time=1500&timeSel=depart
+2018-11-15,14:31:34:6291,1915,25630,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008811171&date=011218&time=1553&timeSel=depart
+2018-11-15,14:31:34:7036,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008874609&date=011218&time=1453&timeSel=depart
+2018-11-15,14:31:35:2200,2483,12928,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008892908&date=011218&time=1453&timeSel=depart
+2018-11-15,14:31:35:8804,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814209&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1523&timeSel=depart
+2018-11-15,14:31:36:5450,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1506&timeSel=depart
+2018-11-15,14:31:36:6235,2397,15149,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008833605&date=021218&time=0440&timeSel=depart
+2018-11-15,14:31:37:2538,2256,13242,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892056&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:37:2623,1185,6136,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1502&timeSel=depart
+2018-11-15,14:31:37:3056,2474,12028,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008886074&date=011218&time=1558&timeSel=depart
+2018-11-15,14:31:37:4009,2166,5940,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1605&timeSel=depart
+2018-11-15,14:31:38:4533,1412,8908,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1557&timeSel=depart
+2018-11-15,14:31:38:4976,2485,9165,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1503&timeSel=depart
+2018-11-15,14:31:38:5932,2877,9076,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1503&timeSel=depart
+2018-11-15,14:31:38:7095,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895760&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1456&timeSel=depart
+2018-11-15,14:31:38:7491,2723,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008813003&date=290915&time=1513&timeSel=depart
+2018-11-15,14:31:38:7646,1553,8908,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1549&timeSel=depart
+2018-11-15,14:31:38:7934,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1604&timeSel=depart
+2018-11-15,14:31:39:0658,2506,18202,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1458&timeSel=depart
+2018-11-15,14:31:39:1375,2443,5500,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884335&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1330&timeSel=depart
+2018-11-15,14:31:39:6301,1693,5776,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008844503&date=011218&time=1556&timeSel=depart
+2018-11-15,14:31:39:9826,2926,9200,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1601&timeSel=depart
+2018-11-15,14:31:40:2180,2283,5920,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895869&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1549&timeSel=depart
+2018-11-15,14:31:40:2372,2285,6025,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822343&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1552&timeSel=depart
+2018-11-15,14:31:40:3977,2697,11926,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1410&timeSel=depart
+2018-11-15,14:31:40:7292,3446,5860,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1530&timeSel=depart
+2018-11-15,14:31:41:1166,1101,15523,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814357&from=http://irail.be/stations/NMBS/008833001&date=021218&time=0854&timeSel=depart
+2018-11-15,14:31:41:2013,2779,5860,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1530&timeSel=depart
+2018-11-15,14:31:41:3296,2986,9415,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008861440&date=011218&time=1653&timeSel=depart
+2018-11-15,14:31:41:5812,2535,11725,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1558&timeSel=depart
+2018-11-15,14:31:41:5936,2738,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:42:1460,3071,10559,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1702&timeSel=depart
+2018-11-15,14:31:42:4693,2536,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:42:8846,2149,5827,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1559&timeSel=depart
+2018-11-15,14:31:43:0290,1988,5896,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1952&timeSel=depart
+2018-11-15,14:31:43:1554,48,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814423&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:43:2920,1289,14629,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1554&timeSel=depart
+2018-11-15,14:31:43:5844,2624,5955,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1456&timeSel=depart
+2018-11-15,14:31:43:9169,2797,9244,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:44:2654,1970,8911,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008831005&date=011218&time=1556&timeSel=depart
+2018-11-15,14:31:44:8408,2561,12146,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812062&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1900&timeSel=depart
+2018-11-15,14:31:45:1171,2536,8852,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008896008&date=011218&time=1557&timeSel=depart
+2018-11-15,14:31:45:4775,2426,5719,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1507&timeSel=depart
+2018-11-15,14:31:45:7499,2729,5740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008811601&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:45:8293,1318,5927,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:45:9127,2735,11816,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892056&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1556&timeSel=depart
+2018-11-15,14:31:46:1691,1013,5641,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821717&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:47:0438,2444,7676,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1555&timeSel=depart
+2018-11-15,14:31:47:1753,2313,5566,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841202&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1659&timeSel=depart
+2018-11-15,14:31:47:2686,1403,11696,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896925&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1645&timeSel=depart
+2018-11-15,14:31:47:2812,3254,8630,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008894201&date=011218&time=1503&timeSel=depart
+2018-11-15,14:31:47:6656,3089,8186,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:47:9861,1525,5728,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1601&timeSel=depart
+2018-11-15,14:31:48:3416,2605,24184,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1448&timeSel=depart
+2018-11-15,14:31:49:3740,1204,9257,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1557&timeSel=depart
+2018-11-15,14:31:49:4814,3116,5641,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821717&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1506&timeSel=depart
+2018-11-15,14:31:49:7661,2576,23743,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008814332&date=011218&time=1500&timeSel=depart
+2018-11-15,14:31:49:9807,2702,11716,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831310&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1602&timeSel=depart
+2018-11-15,14:31:50:8673,3247,14343,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1456&timeSel=depart
+2018-11-15,14:31:51:1507,3210,13468,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1453&timeSel=depart
+2018-11-15,14:31:51:2493,2482,5822,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008894508&date=011218&time=0640&timeSel=depart
+2018-11-15,14:31:51:3007,2632,15920,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1552&timeSel=depart
+2018-11-15,14:31:51:3771,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833605&from=http://irail.be/stations/NMBS/008833308&date=011218&time=1456&timeSel=depart
+2018-11-15,14:31:51:5896,4249,5914,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811916&from=http://irail.be/stations/NMBS/008811601&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:51:9250,1132,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008774100&date=101218&time=0303&timeSel=depart
+2018-11-15,14:31:52:0855,2559,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:52:2342,2781,5838,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008812005&date=011218&time=0515&timeSel=depart
+2018-11-15,14:31:52:2968,2412,6791,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008893401&date=011218&time=1820&timeSel=depart
+2018-11-15,14:31:52:3373,2869,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-15,14:31:52:5728,2815,15496,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892627&from=http://irail.be/stations/NMBS/008833001&date=031218&time=0445&timeSel=depart
+2018-11-15,14:31:52:7132,2619,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1558&timeSel=depart
+2018-11-15,14:31:52:7807,2696,9244,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1553&timeSel=depart
+2018-11-15,14:31:53:5412,1459,18538,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895505&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:54:0218,2689,10266,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1458&timeSel=depart
+2018-11-15,14:31:54:1254,1296,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1501&timeSel=depart
+2018-11-15,14:31:54:1255,1130,5470,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832615&from=http://irail.be/stations/NMBS/008832433&date=011218&time=1511&timeSel=depart
+2018-11-15,14:31:54:1942,2537,11442,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008874716&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1456&timeSel=depart
+2018-11-15,14:31:55:3687,2684,9316,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1715&timeSel=depart
+2018-11-15,14:31:55:5213,2891,5767,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008885001&date=071218&time=0552&timeSel=depart
+2018-11-15,14:31:55:5408,3035,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822475&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1458&timeSel=depart
+2018-11-15,14:31:55:8573,3495,10398,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1501&timeSel=depart
+2018-11-15,14:31:55:9178,2949,5908,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:56:7343,2217,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1505&timeSel=depart
+2018-11-15,14:31:56:8327,4936,11990,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1605&timeSel=depart
+2018-11-15,14:31:57:2455,1288,13062,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1559&timeSel=depart
+2018-11-15,14:31:57:3890,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008885001&date=011218&time=1454&timeSel=depart
+2018-11-15,14:31:57:5614,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1500&timeSel=depart
+2018-11-15,14:31:57:7337,3849,14949,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811718&from=http://irail.be/stations/NMBS/008814001&date=021218&time=0600&timeSel=depart
+2018-11-15,14:31:57:7569,2683,9357,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833605&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1455&timeSel=depart
+2018-11-15,14:31:57:7569,3679,5719,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008892007&date=051218&time=0657&timeSel=depart
+2018-11-15,14:31:57:9735,2466,13514,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1558&timeSel=depart
+2018-11-15,14:31:58:0772,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1504&timeSel=depart
+2018-11-15,14:31:58:2006,2678,9165,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1505&timeSel=depart
+2018-11-15,14:31:58:3131,1290,5926,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1505&timeSel=depart
+2018-11-15,14:31:58:7727,2624,12235,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1505&timeSel=depart
+2018-11-15,14:31:59:0273,2438,18202,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1415&timeSel=depart
+2018-11-15,14:31:59:1567,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:59:2353,3134,13349,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1459&timeSel=depart
+2018-11-15,14:31:59:3615,2422,9244,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1452&timeSel=depart
+2018-11-15,14:31:59:4809,3439,24106,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883212&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1457&timeSel=depart
+2018-11-15,14:31:59:8646,3024,18535,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1506&timeSel=depart
+2018-11-15,14:32:00:2215,2711,8452,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1805&timeSel=depart
+2018-11-15,14:32:00:3649,2203,9768,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1452&timeSel=depart
+2018-11-15,14:32:00:6455,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1456&timeSel=depart
+2018-11-15,14:32:01:1579,2527,9165,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1504&timeSel=depart
+2018-11-15,14:32:01:3944,3349,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1648&timeSel=depart
+2018-11-15,14:32:01:6029,2428,14806,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882701&from=http://irail.be/stations/NMBS/008883006&date=011218&time=1555&timeSel=depart
+2018-11-15,14:32:01:9342,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1559&timeSel=depart
+2018-11-15,14:32:02:1326,2366,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=270915&time=1110&timeSel=depart
+2018-11-15,14:32:02:1472,2299,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1605&timeSel=depart
+2018-11-15,14:32:02:1486,2239,7802,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1600&timeSel=depart
+2018-11-15,14:32:02:2250,1528,5977,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008821717&date=011218&time=1506&timeSel=depart
+2018-11-15,14:32:02:4165,2706,8262,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008841558&date=011218&time=1458&timeSel=depart
+2018-11-15,14:32:02:6734,2380,14842,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833605&from=http://irail.be/stations/NMBS/008822004&date=011218&time=2052&timeSel=depart
+2018-11-15,14:32:02:8010,3667,5737,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812047&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1545&timeSel=depart
+2018-11-15,14:32:02:9733,1145,5954,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814258&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1556&timeSel=depart
+2018-11-15,14:32:03:1458,1401,8186,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1515&timeSel=depart
+2018-11-15,14:32:03:8454,2628,7948,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1546&timeSel=depart
+2018-11-15,14:32:04:1808,4089,5776,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1505&timeSel=depart
+2018-11-15,14:32:04:4695,2499,5848,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811437&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:04:8008,2941,10606,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1501&timeSel=depart
+2018-11-15,14:32:05:2655,2479,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1605&timeSel=depart
+2018-11-15,14:32:05:2771,1148,5682,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1506&timeSel=depart
+2018-11-15,14:32:05:3495,2542,12120,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008842846&from=http://irail.be/stations/NMBS/008864006&date=011218&time=1453&timeSel=depart
+2018-11-15,14:32:05:6100,1977,5699,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841558&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1558&timeSel=depart
+2018-11-15,14:32:05:6505,2679,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008813003&date=290915&time=1600&timeSel=depart
+2018-11-15,14:32:05:6729,2975,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1452&timeSel=depart
+2018-11-15,14:32:06:5538,2749,5608,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881166&from=http://irail.be/stations/NMBS/008883113&date=011218&time=1741&timeSel=depart
+2018-11-15,14:32:06:9374,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1459&timeSel=depart
+2018-11-15,14:32:07:0606,2566,5788,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811213&from=http://irail.be/stations/NMBS/008811007&date=011218&time=1459&timeSel=depart
+2018-11-15,14:32:07:0729,3020,5632,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844503&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1616&timeSel=depart
+2018-11-15,14:32:07:0815,1212,5476,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1459&timeSel=depart
+2018-11-15,14:32:07:3769,2662,11926,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-15,14:32:07:4975,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1525&timeSel=depart
+2018-11-15,14:32:07:6009,1104,8827,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008831005&date=011218&time=1555&timeSel=depart
+2018-11-15,14:32:07:7854,2413,9350,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1529&timeSel=depart
+2018-11-15,14:32:08:0780,1254,13912,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841400&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1507&timeSel=depart
+2018-11-15,14:32:10:3615,2557,12014,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881166&from=http://irail.be/stations/NMBS/008819406&date=011218&time=1453&timeSel=depart
+2018-11-15,14:32:10:4860,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885068&from=http://irail.be/stations/NMBS/008885001&date=011218&time=1558&timeSel=depart
+2018-11-15,14:32:10:4936,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896149&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1456&timeSel=depart
+2018-11-15,14:32:10:6940,2969,5898,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=021218&time=0715&timeSel=depart
+2018-11-15,14:32:10:7947,2892,9088,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833605&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1457&timeSel=depart
+2018-11-15,14:32:11:3472,1160,5602,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1458&timeSel=depart
+2018-11-15,14:32:11:3676,2500,12928,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891702&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1454&timeSel=depart
+2018-11-15,14:32:11:4221,2659,5734,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1428&timeSel=depart
+2018-11-15,14:32:11:7654,1374,5884,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1652&timeSel=depart
+2018-11-15,14:32:12:4888,3834,11642,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008833605&date=011218&time=1506&timeSel=depart
+2018-11-15,14:32:12:9276,3017,10398,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:13:2279,2382,12865,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1530&timeSel=depart
+2018-11-15,14:32:13:2662,26,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811213&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1458&timeSel=depart
+2018-11-15,14:32:13:5047,1354,19594,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008833308&date=011218&time=1559&timeSel=depart
+2018-11-15,14:32:13:9651,3180,13144,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008842754&date=011218&time=1604&timeSel=depart
+2018-11-15,14:32:14:0915,2352,21492,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1550&timeSel=depart
+2018-11-15,14:32:14:6230,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895869&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1555&timeSel=depart
+2018-11-15,14:32:14:6705,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894748&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1456&timeSel=depart
+2018-11-15,14:32:14:8449,2585,10709,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1602&timeSel=depart
+2018-11-15,14:32:15:0607,4120,9894,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008812005&date=011218&time=0400&timeSel=depart
+2018-11-15,14:32:15:2533,2664,13349,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1558&timeSel=depart
+2018-11-15,14:32:15:5047,2564,10398,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1505&timeSel=depart
+2018-11-15,14:32:15:5472,4141,18535,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1458&timeSel=depart
+2018-11-15,14:32:15:5566,3857,5650,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1606&timeSel=depart
+2018-11-15,14:32:15:5934,2918,23544,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892304&from=http://irail.be/stations/NMBS/008896909&date=011218&time=1545&timeSel=depart
+2018-11-15,14:32:16:4497,2488,8773,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812146&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1524&timeSel=depart
+2018-11-15,14:32:17:1532,2219,8091,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008821121&date=021218&time=0645&timeSel=depart
+2018-11-15,14:32:17:2256,2798,8450,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1456&timeSel=depart
+2018-11-15,14:32:17:5133,2593,14106,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884004&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1605&timeSel=depart
+2018-11-15,14:32:17:5938,2759,8042,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1557&timeSel=depart
+2018-11-15,14:32:17:5938,2796,5809,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861200&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1755&timeSel=depart
+2018-11-15,14:32:17:8382,4290,13687,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1540&timeSel=depart
+2018-11-15,14:32:18:1047,3022,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1504&timeSel=depart
+2018-11-15,14:32:18:1975,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1554&timeSel=depart
+2018-11-15,14:32:18:2179,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895448&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1608&timeSel=depart
+2018-11-15,14:32:18:2334,2458,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008821006&date=300915&time=2100&timeSel=depart
+2018-11-15,14:32:18:5618,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814134&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1603&timeSel=depart
+2018-11-15,14:32:18:7456,1414,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1500&timeSel=depart
+2018-11-15,14:32:18:9129,2557,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1501&timeSel=depart
+2018-11-15,14:32:19:0654,3042,5941,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821832&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1502&timeSel=depart
+2018-11-15,14:32:19:1128,127,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1507&timeSel=depart
+2018-11-15,14:32:19:2755,2913,5752,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812252&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-15,14:32:19:4849,3331,18538,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895505&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1445&timeSel=depart
+2018-11-15,14:32:20:1354,3269,5646,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008872009&from=http://irail.be/stations/NMBS/008872413&date=011218&time=1453&timeSel=depart
+2018-11-15,14:32:20:6238,2784,9568,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1500&timeSel=depart
+2018-11-15,14:32:20:9381,2843,8350,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008813003&date=021218&time=1715&timeSel=depart
+2018-11-15,14:32:21:4665,2779,5758,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844008&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1537&timeSel=depart
+2018-11-15,14:32:22:3299,1458,15871,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841525&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1601&timeSel=depart
+2018-11-15,14:32:22:7865,2772,5776,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008844503&date=011218&time=1656&timeSel=depart
+2018-11-15,14:32:22:8529,4242,5956,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811130&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1553&timeSel=depart
+2018-11-15,14:32:22:9816,2581,5860,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1606&timeSel=depart
+2018-11-15,14:32:23:5342,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814134&from=http://irail.be/stations/NMBS/008814258&date=011218&time=1454&timeSel=depart
+2018-11-15,14:32:23:9977,2948,9901,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1603&timeSel=depart
+2018-11-15,14:32:24:5454,2347,5932,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1601&timeSel=depart
+2018-11-15,14:32:24:6541,1000,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008774100&date=031218&time=2045&timeSel=depart
+2018-11-15,14:32:24:7726,2412,9196,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814266&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1457&timeSel=depart
+2018-11-15,14:32:24:9496,1563,8450,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1639&timeSel=depart
+2018-11-15,14:32:25:3379,3211,5872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:25:5741,2838,5674,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896800&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1554&timeSel=depart
+2018-11-15,14:32:25:6366,1139,10606,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1500&timeSel=depart
+2018-11-15,14:32:26:0991,2818,8452,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1755&timeSel=depart
+2018-11-15,14:32:26:1666,2338,5704,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821634&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1459&timeSel=depart
+2018-11-15,14:32:26:2391,3308,11626,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008833605&date=021218&time=0740&timeSel=depart
+2018-11-15,14:32:26:5695,1217,12430,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008892601&date=011218&time=1555&timeSel=depart
+2018-11-15,14:32:27:1771,2393,8773,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1555&timeSel=depart
+2018-11-15,14:32:27:5054,2850,5956,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811130&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1553&timeSel=depart
+2018-11-15,14:32:27:8062,1064,11683,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832003&from=http://irail.be/stations/NMBS/008833233&date=021218&time=1300&timeSel=depart
+2018-11-15,14:32:27:9546,2487,5844,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1457&timeSel=depart
+2018-11-15,14:32:28:0180,1176,8816,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008896008&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:28:3104,2450,11699,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1607&timeSel=depart
+2018-11-15,14:32:28:4348,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811437&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1504&timeSel=depart
+2018-11-15,14:32:28:6412,2528,26443,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894748&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1502&timeSel=depart
+2018-11-15,14:32:28:7737,3713,19162,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008811130&date=011218&time=1456&timeSel=depart
+2018-11-15,14:32:28:9141,1065,6100,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1501&timeSel=depart
+2018-11-15,14:32:29:2025,1106,15946,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833605&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1505&timeSel=depart
+2018-11-15,14:32:29:8928,3077,7980,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1500&timeSel=depart
+2018-11-15,14:32:29:9595,3025,12106,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008811007&date=091218&time=1029&timeSel=depart
+2018-11-15,14:32:30:0309,2502,11696,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896925&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1155&timeSel=depart
+2018-11-15,14:32:30:1783,1271,5996,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814258&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1557&timeSel=depart
+2018-11-15,14:32:30:2417,2759,17083,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008811676&date=011218&time=1615&timeSel=depart
+2018-11-15,14:32:30:4102,2916,7948,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=021218&time=1535&timeSel=depart
+2018-11-15,14:32:30:4246,2468,11636,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008874609&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:30:6214,2138,31660,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1606&timeSel=depart
+2018-11-15,14:32:30:6941,4712,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008774100&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1552&timeSel=depart
+2018-11-15,14:32:30:7935,1960,5650,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1504&timeSel=depart
+2018-11-15,14:32:30:8259,2549,12034,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821717&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1455&timeSel=depart
+2018-11-15,14:32:31:1183,2260,5908,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832003&from=http://irail.be/stations/NMBS/008831005&date=011218&time=1453&timeSel=depart
+2018-11-15,14:32:31:3127,3656,14343,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1456&timeSel=depart
+2018-11-15,14:32:31:3255,2706,9201,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1459&timeSel=depart
+2018-11-15,14:32:31:6660,1352,7696,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841525&from=http://irail.be/stations/NMBS/008863008&date=021218&time=0650&timeSel=depart
+2018-11-15,14:32:31:7222,2466,5848,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811437&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1506&timeSel=depart
+2018-11-15,14:32:31:9346,1400,5737,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812047&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1600&timeSel=depart
+2018-11-15,14:32:32:2380,2609,5996,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814258&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1459&timeSel=depart
+2018-11-15,14:32:32:3906,2537,17806,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008893013&date=021218&time=1550&timeSel=depart
+2018-11-15,14:32:32:3907,4400,11696,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896925&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1350&timeSel=depart
+2018-11-15,14:32:32:5350,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822111&from=http://irail.be/stations/NMBS/008811221&date=011218&time=1452&timeSel=depart
+2018-11-15,14:32:32:7734,1233,24366,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008811213&date=011218&time=1502&timeSel=depart
+2018-11-15,14:32:32:8530,3113,10606,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:32:8954,2572,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1506&timeSel=depart
+2018-11-15,14:32:32:9048,2719,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=021218&time=1535&timeSel=depart
+2018-11-15,14:32:32:9454,3259,5679,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008872579&date=011218&time=1604&timeSel=depart
+2018-11-15,14:32:33:0127,3144,6241,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008814167&date=011218&time=1456&timeSel=depart
+2018-11-15,14:32:33:6292,2999,8450,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1600&timeSel=depart
+2018-11-15,14:32:33:7446,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008873122&from=http://irail.be/stations/NMBS/008872009&date=011218&time=1550&timeSel=depart
+2018-11-15,14:32:33:7972,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008811601&date=011218&time=1735&timeSel=depart
+2018-11-15,14:32:34:0049,1115,7948,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1458&timeSel=depart
+2018-11-15,14:32:34:3355,1238,11733,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1457&timeSel=depart
+2018-11-15,14:32:34:9299,2814,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1558&timeSel=depart
+2018-11-15,14:32:36:1025,2361,24757,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892304&from=http://irail.be/stations/NMBS/008896909&date=011218&time=1515&timeSel=depart
+2018-11-15,14:32:36:4608,3072,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=021218&time=1545&timeSel=depart
+2018-11-15,14:32:36:4833,3355,8821,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812146&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1504&timeSel=depart
+2018-11-15,14:32:36:8166,1207,5800,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832433&from=http://irail.be/stations/NMBS/008832565&date=011218&time=1501&timeSel=depart
+2018-11-15,14:32:36:8772,2562,5986,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814258&from=http://irail.be/stations/NMBS/008814134&date=011218&time=1454&timeSel=depart
+2018-11-15,14:32:37:2246,2537,5701,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811288&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1606&timeSel=depart
+2018-11-15,14:32:37:6232,1218,5734,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1456&timeSel=depart
+2018-11-15,14:32:38:3386,2309,19663,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008833605&date=011218&time=2124&timeSel=depart
+2018-11-15,14:32:38:3611,2402,8630,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008894201&date=011218&time=1500&timeSel=depart
+2018-11-15,14:32:38:5956,3496,5898,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=021218&time=0715&timeSel=depart
+2018-11-15,14:32:38:6541,3457,5822,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008894508&date=011218&time=0530&timeSel=depart
+2018-11-15,14:32:38:7607,4057,5854,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008895430&date=041218&time=0400&timeSel=depart
+2018-11-15,14:32:38:9072,2904,5458,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008842002&from=http://irail.be/stations/NMBS/008842846&date=021218&time=1000&timeSel=depart
+2018-11-15,14:32:39:1076,2441,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1606&timeSel=depart
+2018-11-15,14:32:39:4679,2212,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1500&timeSel=depart
+2018-11-15,14:32:39:5393,2105,5872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812021&from=http://irail.be/stations/NMBS/008812245&date=011218&time=1553&timeSel=depart
+2018-11-15,14:32:39:6127,2275,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1556&timeSel=depart
+2018-11-15,14:32:39:6712,3349,12028,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894508&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1610&timeSel=depart
+2018-11-15,14:32:39:8996,3209,21116,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812021&from=http://irail.be/stations/NMBS/008200510&date=011218&time=1602&timeSel=depart
+2018-11-15,14:32:40:0710,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821535&from=http://irail.be/stations/NMBS/008893013&date=021218&time=1550&timeSel=depart
+2018-11-15,14:32:40:0774,3790,5596,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008812120&date=011218&time=1553&timeSel=depart
+2018-11-15,14:32:40:3891,2417,17400,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008833605&date=011218&time=1840&timeSel=depart
+2018-11-15,14:32:41:0727,2164,12251,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008872009&date=021218&time=1630&timeSel=depart
+2018-11-15,14:32:41:7973,3332,7846,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:41:8777,1248,6049,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811007&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1558&timeSel=depart
+2018-11-15,14:32:41:9251,2723,5948,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814209&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1602&timeSel=depart
+2018-11-15,14:32:42:5807,28,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1708&timeSel=depart
+2018-11-15,14:32:43:5131,28,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894508&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1740&timeSel=depart
+2018-11-15,14:32:43:5446,1745,5884,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1552&timeSel=depart
+2018-11-15,14:32:43:8493,3517,26482,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821535&from=http://irail.be/stations/NMBS/008893013&date=011218&time=1300&timeSel=depart
+2018-11-15,14:32:44:6418,2151,5812,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1740&timeSel=depart
+2018-11-15,14:32:45:3623,3141,6286,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008814167&date=011218&time=1501&timeSel=depart
+2018-11-15,14:32:46:1707,2867,14006,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1606&timeSel=depart
+2018-11-15,14:32:46:3941,2431,18389,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886074&from=http://irail.be/stations/NMBS/008812211&date=011218&time=1556&timeSel=depart
+2018-11-15,14:32:46:4806,2908,8872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:46:5093,2503,18535,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:46:6176,2414,11725,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1604&timeSel=depart
+2018-11-15,14:32:46:9980,2859,8734,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1554&timeSel=depart
+2018-11-15,14:32:47:0105,2520,10606,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:47:5049,2721,13858,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811510&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1457&timeSel=depart
+2018-11-15,14:32:47:6314,2720,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1504&timeSel=depart
+2018-11-15,14:32:47:6617,2480,6031,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008814266&date=011218&time=1601&timeSel=depart
+2018-11-15,14:32:47:8455,1082,5950,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884004&from=http://irail.be/stations/NMBS/008885704&date=011218&time=1455&timeSel=depart
+2018-11-15,14:32:47:9260,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833233&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1453&timeSel=depart
+2018-11-15,14:32:48:5214,2636,10398,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1555&timeSel=depart
+2018-11-15,14:32:48:6330,3201,9076,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1454&timeSel=depart
+2018-11-15,14:32:48:7216,2444,9769,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008811528&date=011218&time=1558&timeSel=depart
+2018-11-15,14:32:49:1173,2868,24757,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892304&from=http://irail.be/stations/NMBS/008896909&date=011218&time=1530&timeSel=depart
+2018-11-15,14:32:49:3487,2829,7902,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1452&timeSel=depart
+2018-11-15,14:32:49:7054,3654,18208,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008885001&date=011218&time=1503&timeSel=depart
+2018-11-15,14:32:50:0901,3374,5620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882339&from=http://irail.be/stations/NMBS/008882107&date=011218&time=1605&timeSel=depart
+2018-11-15,14:32:50:2584,2802,5824,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883436&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1558&timeSel=depart
+2018-11-15,14:32:50:3226,3761,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1645&timeSel=depart
+2018-11-15,14:32:50:4701,2565,14389,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812047&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1455&timeSel=depart
+2018-11-15,14:32:50:5094,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1553&timeSel=depart
+2018-11-15,14:32:51:0619,3939,8773,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812146&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1524&timeSel=depart
+2018-11-15,14:32:52:4137,3198,6112,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008814209&date=011218&time=1558&timeSel=depart
+2018-11-15,14:32:52:4901,2673,24757,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892304&from=http://irail.be/stations/NMBS/008896909&date=011218&time=1530&timeSel=depart
+2018-11-15,14:32:52:7066,2821,5812,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811221&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1551&timeSel=depart
+2018-11-15,14:32:52:7629,3369,5898,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1504&timeSel=depart
+2018-11-15,14:32:52:8172,2271,10709,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1602&timeSel=depart
+2018-11-15,14:32:52:9046,2337,5770,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1454&timeSel=depart
+2018-11-15,14:32:53:2809,2280,5761,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1506&timeSel=depart
+2018-11-15,14:32:53:4412,3130,5962,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811916&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1640&timeSel=depart
+2018-11-15,14:32:53:9296,3020,6054,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1602&timeSel=depart
+2018-11-15,14:32:54:2462,3211,5907,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008811007&date=011218&time=1504&timeSel=depart
+2018-11-15,14:32:54:5305,1196,12351,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832003&from=http://irail.be/stations/NMBS/008833233&date=021218&time=1702&timeSel=depart
+2018-11-15,14:32:54:9228,2149,5738,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895760&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1502&timeSel=depart
+2018-11-15,14:32:55:4893,2047,11716,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831310&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1604&timeSel=depart
+2018-11-15,14:32:55:7167,2179,5800,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832433&from=http://irail.be/stations/NMBS/008832565&date=011218&time=1455&timeSel=depart
+2018-11-15,14:32:55:7295,1068,8821,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812146&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1458&timeSel=depart
+2018-11-15,14:32:55:8619,1324,5824,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1530&timeSel=depart
+2018-11-15,14:32:56:0344,1771,5818,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008884335&date=031218&time=1025&timeSel=depart
+2018-11-15,14:32:56:3688,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896149&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1452&timeSel=depart
+2018-11-15,14:32:56:4091,2861,5734,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1322&timeSel=depart
+2018-11-15,14:32:56:6897,2528,5903,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008814308&date=011218&time=1459&timeSel=depart
+2018-11-15,14:32:56:8012,39,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008831005&date=011218&time=1557&timeSel=depart
+2018-11-15,14:32:56:8656,2491,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1557&timeSel=depart
+2018-11-15,14:32:57:2249,2258,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=280915&time=1600&timeSel=depart
+2018-11-15,14:32:57:6114,2384,6028,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008872009&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1556&timeSel=depart
+2018-11-15,14:32:57:6888,3690,6084,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1557&timeSel=depart
+2018-11-15,14:32:58:0974,2368,5870,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814209&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1501&timeSel=depart
+2018-11-15,14:32:58:2047,4400,6037,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1459&timeSel=depart
+2018-11-15,14:32:58:8652,2382,8644,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822343&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1504&timeSel=depart
+2018-11-15,14:32:59:0127,3492,6028,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814167&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1454&timeSel=depart
+2018-11-15,14:32:59:3471,3153,8872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1500&timeSel=depart
+2018-11-15,14:33:00:4156,2626,5566,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832433&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1604&timeSel=depart
+2018-11-15,14:33:00:9394,2703,10408,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891702&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1545&timeSel=depart
+2018-11-15,14:33:00:9917,3346,5872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1552&timeSel=depart
+2018-11-15,14:33:01:6202,2467,10175,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008895208&date=011218&time=0445&timeSel=depart
+2018-11-15,14:33:02:4007,3400,10398,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1456&timeSel=depart
+2018-11-15,14:33:02:5432,2286,5697,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821600&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1457&timeSel=depart
+2018-11-15,14:33:02:9266,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861200&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1502&timeSel=depart
+2018-11-15,14:33:03:2190,1989,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1558&timeSel=depart
+2018-11-15,14:33:03:4575,1091,15987,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892205&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1544&timeSel=depart
+2018-11-15,14:33:03:5102,2489,13349,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1454&timeSel=depart
+2018-11-15,14:33:03:6446,3803,9268,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1606&timeSel=depart
+2018-11-15,14:33:04:0010,1586,5698,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831807&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:04:4536,2348,5680,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886009&from=http://irail.be/stations/NMBS/008885001&date=011218&time=1505&timeSel=depart
+2018-11-15,14:33:04:5699,2187,5774,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1457&timeSel=depart
+2018-11-15,14:33:04:8343,2062,5923,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1558&timeSel=depart
+2018-11-15,14:33:05:0729,2690,6286,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008814167&date=011218&time=1757&timeSel=depart
+2018-11-15,14:33:05:0816,1959,7256,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1605&timeSel=depart
+2018-11-15,14:33:05:4851,4555,9568,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1500&timeSel=depart
+2018-11-15,14:33:05:5287,2189,9088,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833605&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:05:6491,3451,5932,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1548&timeSel=depart
+2018-11-15,14:33:05:7484,2643,5608,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822517&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1611&timeSel=depart
+2018-11-15,14:33:05:9969,3331,5827,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1557&timeSel=depart
+2018-11-15,14:33:06:2337,3412,5866,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008865003&date=031218&time=1300&timeSel=depart
+2018-11-15,14:33:06:8252,1693,6040,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1540&timeSel=depart
+2018-11-15,14:33:07:1088,2403,11697,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1710&timeSel=depart
+2018-11-15,14:33:07:5375,2351,5914,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811916&from=http://irail.be/stations/NMBS/008811601&date=011218&time=1502&timeSel=depart
+2018-11-15,14:33:07:6539,2729,5752,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812252&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1504&timeSel=depart
+2018-11-15,14:33:07:7095,1663,5770,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1454&timeSel=depart
+2018-11-15,14:33:07:7292,2572,11984,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833605&from=http://irail.be/stations/NMBS/008822004&date=021218&time=0352&timeSel=depart
+2018-11-15,14:33:07:9329,2460,24280,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008883113&date=011218&time=1458&timeSel=depart
+2018-11-15,14:33:08:2166,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811254&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1550&timeSel=depart
+2018-11-15,14:33:08:2433,1035,12349,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008894508&date=011218&time=1456&timeSel=depart
+2018-11-15,14:33:08:4156,1806,12346,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008871365&date=011218&time=1559&timeSel=depart
+2018-11-15,14:33:08:4750,1151,5888,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008872009&date=011218&time=1620&timeSel=depart
+2018-11-15,14:33:08:5574,2616,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822715&from=http://irail.be/stations/NMBS/008822004&date=280915&time=1339&timeSel=depart
+2018-11-15,14:33:08:7777,2863,16334,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1655&timeSel=depart
+2018-11-15,14:33:08:8660,2349,5650,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1603&timeSel=depart
+2018-11-15,14:33:09:4224,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811445&from=http://irail.be/stations/NMBS/008874609&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:09:6088,2946,5762,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:09:9166,2511,5740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008811601&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:10:1031,3953,5650,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1552&timeSel=depart
+2018-11-15,14:33:10:2384,2351,18034,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895646&from=http://irail.be/stations/NMBS/008892601&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:10:3368,2399,11722,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1502&timeSel=depart
+2018-11-15,14:33:10:3853,1219,5983,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894508&from=http://irail.be/stations/NMBS/008892007&date=011218&time=0640&timeSel=depart
+2018-11-15,14:33:10:4257,1489,11696,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896925&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1055&timeSel=depart
+2018-11-15,14:33:10:9382,2413,5929,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:11:1615,2615,21709,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1454&timeSel=depart
+2018-11-15,14:33:11:6930,2454,5716,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008885001&date=071218&time=1552&timeSel=depart
+2018-11-15,14:33:12:2925,2709,16459,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893120&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1553&timeSel=depart
+2018-11-15,14:33:12:3694,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821600&from=http://irail.be/stations/NMBS/008822004&date=280915&time=0645&timeSel=depart
+2018-11-15,14:33:12:6059,1243,11683,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821535&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1300&timeSel=depart
+2018-11-15,14:33:12:7015,2459,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:13:1529,3731,5698,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831807&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1502&timeSel=depart
+2018-11-15,14:33:13:6057,2644,5760,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1600&timeSel=depart
+2018-11-15,14:33:13:9815,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1557&timeSel=depart
+2018-11-15,14:33:14:0451,2844,9165,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1607&timeSel=depart
+2018-11-15,14:33:14:0766,1926,5750,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:14:1129,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008874005&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:14:6236,3267,11647,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821519&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1452&timeSel=depart
+2018-11-15,14:33:14:8870,2889,5620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882339&from=http://irail.be/stations/NMBS/008882107&date=011218&time=1557&timeSel=depart
+2018-11-15,14:33:15:2873,2480,5746,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844008&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1452&timeSel=depart
+2018-11-15,14:33:15:5698,2518,18156,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1458&timeSel=depart
+2018-11-15,14:33:15:7782,1364,12946,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895091&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:16:2586,2863,5818,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814266&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:16:4810,2919,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1502&timeSel=depart
+2018-11-15,14:33:16:8654,2950,11722,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1558&timeSel=depart
+2018-11-15,14:33:17:2458,3877,21492,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1559&timeSel=depart
+2018-11-15,14:33:17:3014,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1555&timeSel=depart
+2018-11-15,14:33:17:6059,3571,6031,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008814266&date=011218&time=1501&timeSel=depart
+2018-11-15,14:33:17:6572,3508,5848,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895455&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1501&timeSel=depart
+2018-11-15,14:33:18:0966,28,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:18:1129,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814266&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1505&timeSel=depart
+2018-11-15,14:33:18:2655,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812120&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1600&timeSel=depart
+2018-11-15,14:33:19:5299,1086,6136,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1501&timeSel=depart
+2018-11-15,14:33:19:9653,2560,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008774100&from=http://irail.be/stations/NMBS/008881000&date=101218&time=0303&timeSel=depart
+2018-11-15,14:33:20:3368,3791,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1458&timeSel=depart
+2018-11-15,14:33:20:6375,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861200&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1603&timeSel=depart
+2018-11-15,14:33:20:7652,3920,5905,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008821600&date=011218&time=1525&timeSel=depart
+2018-11-15,14:33:20:8336,3316,9076,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1603&timeSel=depart
+2018-11-15,14:33:21:5182,5674,5827,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:22:5486,2784,16835,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892627&from=http://irail.be/stations/NMBS/008833001&date=031218&time=0554&timeSel=depart
+2018-11-15,14:33:22:9452,2635,12475,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892601&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1556&timeSel=depart
+2018-11-15,14:33:23:0257,5397,5566,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832433&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:23:1850,2546,25023,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811304&from=http://irail.be/stations/NMBS/008866001&date=011218&time=1548&timeSel=depart
+2018-11-15,14:33:23:3634,2655,13062,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1454&timeSel=depart
+2018-11-15,14:33:23:4028,2925,5740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1458&timeSel=depart
+2018-11-15,14:33:23:6333,2932,5944,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1603&timeSel=depart
+2018-11-15,14:33:23:6849,2830,10709,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812112&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1607&timeSel=depart
+2018-11-15,14:33:24:1034,953,5911,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811916&from=http://irail.be/stations/NMBS/008861200&date=011218&time=1603&timeSel=depart
+2018-11-15,14:33:24:2838,4184,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1457&timeSel=depart
+2018-11-15,14:33:24:5921,1630,7792,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894201&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:24:6586,2393,5770,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811601&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1456&timeSel=depart
+2018-11-15,14:33:25:0140,1035,5806,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814456&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1458&timeSel=depart
+2018-11-15,14:33:25:0654,2334,5908,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814266&from=http://irail.be/stations/NMBS/008814456&date=011218&time=1501&timeSel=depart
+2018-11-15,14:33:25:3450,2586,5584,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008822517&date=021218&time=0800&timeSel=depart
+2018-11-15,14:33:26:9214,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-15,14:33:27:1808,2729,8908,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1555&timeSel=depart
+2018-11-15,14:33:27:1891,2715,5704,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841665&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1559&timeSel=depart
+2018-11-15,14:33:27:3176,3080,5835,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008821006&date=041218&time=1545&timeSel=depart
+2018-11-15,14:33:27:3940,26,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1752&timeSel=depart
+2018-11-15,14:33:27:5535,2404,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1456&timeSel=depart
+2018-11-15,14:33:27:5779,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1544&timeSel=depart
+2018-11-15,14:33:27:9087,2222,5848,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821717&from=http://irail.be/stations/NMBS/008832458&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:28:3151,2328,7948,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1559&timeSel=depart
+2018-11-15,14:33:28:8296,3439,5668,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812146&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1456&timeSel=depart
+2018-11-15,14:33:28:8689,3080,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1457&timeSel=depart
+2018-11-15,14:33:28:9006,2790,6054,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1645&timeSel=depart
+2018-11-15,14:33:28:9992,2579,25645,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891702&from=http://irail.be/stations/NMBS/008891140&date=011218&time=1620&timeSel=depart
+2018-11-15,14:33:29:5415,1488,5752,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812252&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1505&timeSel=depart
+2018-11-15,14:33:29:5500,4063,21492,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1552&timeSel=depart
+2018-11-15,14:33:29:6974,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:30:9891,2425,8797,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812120&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1555&timeSel=depart
+2018-11-15,14:33:31:3836,2264,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008774100&from=http://irail.be/stations/NMBS/008883006&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:31:5789,3063,16334,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1833&timeSel=depart
+2018-11-15,14:33:31:9992,3653,18922,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1454&timeSel=depart
+2018-11-15,14:33:32:2106,1267,18114,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008883808&date=011218&time=1606&timeSel=depart
+2018-11-15,14:33:32:4700,2247,24366,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008811213&date=011218&time=1505&timeSel=depart
+2018-11-15,14:33:32:8826,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1548&timeSel=depart
+2018-11-15,14:33:32:8950,2707,5806,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812047&from=http://irail.be/stations/NMBS/008812005&date=031218&time=1530&timeSel=depart
+2018-11-15,14:33:33:3814,1509,5794,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008893401&date=021218&time=0420&timeSel=depart
+2018-11-15,14:33:33:3929,2422,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:33:4967,2293,5700,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841319&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1504&timeSel=depart
+2018-11-15,14:33:33:8932,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892205&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1544&timeSel=depart
+2018-11-15,14:33:33:9375,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1554&timeSel=depart
+2018-11-15,14:33:33:9862,1730,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895760&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1604&timeSel=depart
+2018-11-15,14:33:34:1025,1446,5698,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831807&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1457&timeSel=depart
+2018-11-15,14:33:34:1340,2547,9628,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1607&timeSel=depart
+2018-11-15,14:33:34:4526,2110,5881,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008894508&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:34:4690,2320,5993,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1553&timeSel=depart
+2018-11-15,14:33:34:4694,2228,10336,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1452&timeSel=depart
+2018-11-15,14:33:34:5054,2182,9754,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814365&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1546&timeSel=depart
+2018-11-15,14:33:34:5579,1279,5746,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811411&from=http://irail.be/stations/NMBS/008811445&date=011218&time=1556&timeSel=depart
+2018-11-15,14:33:35:0133,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008811445&date=011218&time=1500&timeSel=depart
+2018-11-15,14:33:35:4739,3689,6031,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008814266&date=011218&time=1603&timeSel=depart
+2018-11-15,14:33:35:5053,2585,5809,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861200&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:35:8010,1254,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1505&timeSel=depart
+2018-11-15,14:33:36:0134,1213,5827,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1454&timeSel=depart
+2018-11-15,14:33:36:5130,3268,5868,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:36:5696,2572,5734,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=0946&timeSel=depart
+2018-11-15,14:33:36:5981,3073,11733,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:37:2206,2370,12215,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814134&from=http://irail.be/stations/NMBS/008883311&date=011218&time=1552&timeSel=depart
+2018-11-15,14:33:37:5969,1727,8908,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1558&timeSel=depart
+2018-11-15,14:33:37:6366,2244,5774,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:37:6471,1433,21492,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1559&timeSel=depart
+2018-11-15,14:33:37:7434,2156,10616,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1456&timeSel=depart
+2018-11-15,14:33:38:2506,3763,14474,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831765&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1550&timeSel=depart
+2018-11-15,14:33:38:3740,2264,5992,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1557&timeSel=depart
+2018-11-15,14:33:38:6343,3612,15628,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008821238&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:38:6747,1122,8857,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1502&timeSel=depart
+2018-11-15,14:33:38:7871,3749,5514,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008874716&date=011218&time=1554&timeSel=depart
+2018-11-15,14:33:39:0136,2838,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008819406&from=http://irail.be/stations/NMBS/008892007&date=071115&time=1153&timeSel=depart
+2018-11-15,14:33:39:7660,3421,23683,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814332&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1457&timeSel=depart
+2018-11-15,14:33:39:8055,3585,11359,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008874716&from=http://irail.be/stations/NMBS/008863115&date=011218&time=1605&timeSel=depart
+2018-11-15,14:33:40:0659,2093,18556,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833233&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:40:0693,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1456&timeSel=depart
+2018-11-15,14:33:40:6056,3268,5758,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008831807&date=031218&time=0800&timeSel=depart
+2018-11-15,14:33:41:0259,3147,18642,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008822053&date=011218&time=1458&timeSel=depart
+2018-11-15,14:33:41:3374,2115,5719,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896149&from=http://irail.be/stations/NMBS/008896008&date=011218&time=1605&timeSel=depart
+2018-11-15,14:33:41:3689,3377,9568,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:41:4995,1468,5858,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008842002&from=http://irail.be/stations/NMBS/008841525&date=011218&time=1507&timeSel=depart
+2018-11-15,14:33:41:5138,1185,13242,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892056&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1454&timeSel=depart
+2018-11-15,14:33:41:7974,1185,5458,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008842002&from=http://irail.be/stations/NMBS/008842705&date=011218&time=0530&timeSel=depart
+2018-11-15,14:33:42:1247,2627,5992,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008895869&date=021218&time=1115&timeSel=depart
+2018-11-15,14:33:42:5973,2176,21458,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1556&timeSel=depart
+2018-11-15,14:33:42:6016,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008819406&date=111115&time=1215&timeSel=depart
+2018-11-15,14:33:42:6860,2100,5710,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811510&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1556&timeSel=depart
+2018-11-15,14:33:43:4776,1461,5710,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895208&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1502&timeSel=depart
+2018-11-15,14:33:43:6010,2947,5910,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008811189&date=021218&time=0539&timeSel=depart
+2018-11-15,14:33:43:7133,4406,13301,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1556&timeSel=depart
+2018-11-15,14:33:43:9969,2510,19942,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812062&from=http://irail.be/stations/NMBS/008893120&date=011218&time=1456&timeSel=depart
+2018-11-15,14:33:44:1115,5602,24184,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1608&timeSel=depart
+2018-11-15,14:33:44:1497,2738,12958,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008892643&date=011218&time=1500&timeSel=depart
+2018-11-15,14:33:44:8532,2876,5698,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831807&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1452&timeSel=depart
+2018-11-15,14:33:44:9049,2325,7902,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1556&timeSel=depart
+2018-11-15,14:33:45:5933,4061,18236,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1555&timeSel=depart
+2018-11-15,14:33:45:7216,1089,9257,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1556&timeSel=depart
+2018-11-15,14:33:45:9689,2477,11725,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1553&timeSel=depart
+2018-11-15,14:33:45:9751,2434,18202,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1555&timeSel=depart
+2018-11-15,14:33:46:0154,1242,17591,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811221&from=http://irail.be/stations/NMBS/008822111&date=021218&time=0540&timeSel=depart
+2018-11-15,14:33:46:0807,2238,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896149&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:46:5911,2933,11950,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821600&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1458&timeSel=depart
+2018-11-15,14:33:46:7786,2121,5578,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812047&from=http://irail.be/stations/NMBS/008812120&date=011218&time=1458&timeSel=depart
+2018-11-15,14:33:47:4740,2374,5620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821535&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1720&timeSel=depart
+2018-11-15,14:33:47:4865,2199,5560,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008891124&date=021218&time=0615&timeSel=depart
+2018-11-15,14:33:47:7820,4042,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895760&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1555&timeSel=depart
+2018-11-15,14:33:47:9373,2463,5698,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831807&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1452&timeSel=depart
+2018-11-15,14:33:47:9449,2262,5836,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008896149&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:47:9695,3627,12940,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892908&from=http://irail.be/stations/NMBS/008892601&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:48:1892,3351,5829,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:48:4457,3270,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1555&timeSel=depart
+2018-11-15,14:33:49:0201,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008833001&date=021218&time=1647&timeSel=depart
+2018-11-15,14:33:49:1227,3698,5950,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884004&from=http://irail.be/stations/NMBS/008885704&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:49:1492,2776,7069,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008821006&date=011218&time=2155&timeSel=depart
+2018-11-15,14:33:49:2329,2937,5762,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1456&timeSel=depart
+2018-11-15,14:33:49:6733,2322,16459,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893120&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1553&timeSel=depart
+2018-11-15,14:33:49:9689,3943,5983,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894508&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1500&timeSel=depart
+2018-11-15,14:33:50:0732,3888,26165,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008865003&from=http://irail.be/stations/NMBS/008822343&date=011218&time=1455&timeSel=depart
+2018-11-15,14:33:50:1767,1266,5806,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814456&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:50:3652,2403,5710,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814266&from=http://irail.be/stations/NMBS/008814142&date=011218&time=1505&timeSel=depart
+2018-11-15,14:33:50:8596,3840,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008774100&date=101218&time=2045&timeSel=depart
+2018-11-15,14:33:51:1919,45,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008811601&date=011218&time=1504&timeSel=depart
+2018-11-15,14:33:51:3112,1141,5697,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821600&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1502&timeSel=depart
+2018-11-15,14:33:51:8506,1271,8734,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1606&timeSel=depart
+2018-11-15,14:33:52:5698,1544,8644,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822343&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1452&timeSel=depart
+2018-11-15,14:33:52:8934,2380,12126,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1553&timeSel=depart
+2018-11-15,14:33:52:9610,3409,5907,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1555&timeSel=depart
+2018-11-15,14:33:53:0686,3755,5848,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811437&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1504&timeSel=depart
+2018-11-15,14:33:53:6351,1261,12100,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811247&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1500&timeSel=depart
+2018-11-15,14:33:53:6374,1425,5500,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884335&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1606&timeSel=depart
+2018-11-15,14:33:53:7690,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:54:2035,2520,6135,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:54:3279,2543,5827,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1606&timeSel=depart
+2018-11-15,14:33:54:5042,3171,5650,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1558&timeSel=depart
+2018-11-15,14:33:54:6575,2590,6100,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1505&timeSel=depart
+2018-11-15,14:33:54:6575,4088,21492,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1542&timeSel=depart
+2018-11-15,14:33:54:7619,2111,9625,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896115&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1459&timeSel=depart
+2018-11-15,14:33:54:9853,2761,5908,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008821105&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:55:1206,1587,5682,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1459&timeSel=depart
+2018-11-15,14:33:55:1392,2869,29234,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008864469&from=http://irail.be/stations/NMBS/008811676&date=011218&time=1501&timeSel=depart
+2018-11-15,14:33:55:2115,1619,6100,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1459&timeSel=depart
+2018-11-15,14:33:55:2817,3542,9901,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008813003&date=021218&time=1030&timeSel=depart
+2018-11-15,14:33:55:3413,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1459&timeSel=depart
+2018-11-15,14:33:55:4098,2603,8719,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:55:5762,3937,5860,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814266&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1557&timeSel=depart
+2018-11-15,14:33:55:6327,2643,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:55:7329,1200,12532,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833308&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:55:8013,2745,5620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844503&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1459&timeSel=depart
+2018-11-15,14:33:56:3179,4160,7930,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008893401&date=011218&time=1551&timeSel=depart
+2018-11-15,14:33:56:5462,3084,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1503&timeSel=depart
+2018-11-15,14:33:56:7864,3963,7984,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1454&timeSel=depart
+2018-11-15,14:33:57:0298,2381,5587,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008811288&date=011218&time=1554&timeSel=depart
+2018-11-15,14:33:57:4971,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1454&timeSel=depart
+2018-11-15,14:33:57:7927,3647,9082,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895505&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1505&timeSel=depart
+2018-11-15,14:33:58:1374,3434,5708,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891124&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1601&timeSel=depart
+2018-11-15,14:33:58:5527,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894748&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1502&timeSel=depart
+2018-11-15,14:33:58:8292,2616,14695,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1453&timeSel=depart
+2018-11-15,14:33:59:0137,3624,5920,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895869&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1557&timeSel=depart
+2018-11-15,14:33:59:2933,1170,9451,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008861150&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1559&timeSel=depart
+2018-11-15,14:33:59:3218,2629,5734,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1123&timeSel=depart
+2018-11-15,14:33:59:5503,2629,5620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821535&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1705&timeSel=depart
+2018-11-15,14:33:59:5707,2642,11872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008841202&date=051218&time=0855&timeSel=depart
+2018-11-15,14:34:00:0251,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008814134&date=011218&time=1558&timeSel=depart
+2018-11-15,14:34:00:1155,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1501&timeSel=depart
+2018-11-15,14:34:00:1749,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1459&timeSel=depart
+2018-11-15,14:34:00:4414,2870,5682,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1455&timeSel=depart
+2018-11-15,14:34:01:4489,2472,16975,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008832375&date=011218&time=1555&timeSel=depart
+2018-11-15,14:34:01:8047,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1453&timeSel=depart
+2018-11-15,14:34:01:9511,2963,18922,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1454&timeSel=depart
+2018-11-15,14:34:01:9615,2795,7676,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1600&timeSel=depart
+2018-11-15,14:34:02:1700,2526,5770,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1755&timeSel=depart
+2018-11-15,14:34:02:3423,3165,6070,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008872009&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1559&timeSel=depart
+2018-11-15,14:34:02:7047,2794,6070,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814167&from=http://irail.be/stations/NMBS/008814449&date=011218&time=1505&timeSel=depart
+2018-11-15,14:34:02:7454,1548,12940,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833449&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1459&timeSel=depart
+2018-11-15,14:34:03:6212,3282,5907,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008811007&date=011218&time=1556&timeSel=depart
+2018-11-15,14:34:03:7876,1128,8450,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895802&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1805&timeSel=depart
+2018-11-15,14:34:03:7888,2829,5920,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895869&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1555&timeSel=depart
+2018-11-15,14:34:03:8212,2044,6100,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1504&timeSel=depart
+2018-11-15,14:34:04:0608,3589,5954,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814258&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1455&timeSel=depart
+2018-11-15,14:34:04:5673,2541,7846,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1513&timeSel=depart
+2018-11-15,14:34:04:7437,3395,5514,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008843307&date=031218&time=0530&timeSel=depart
+2018-11-15,14:34:04:9150,2488,18535,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-15,14:34:05:3214,1318,10104,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1805&timeSel=depart
+2018-11-15,14:34:05:8811,2430,14446,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1548&timeSel=depart
+2018-11-15,14:34:05:8811,2850,18257,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008883006&date=011218&time=1457&timeSel=depart
+2018-11-15,14:34:06:2782,1212,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1552&timeSel=depart
+2018-11-15,14:34:06:6765,1309,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896149&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1542&timeSel=depart
+2018-11-15,14:34:06:9950,2511,13349,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1501&timeSel=depart
+2018-11-15,14:34:07:0174,3267,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1455&timeSel=depart
+2018-11-15,14:34:07:1058,3481,21960,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822111&from=http://irail.be/stations/NMBS/008811221&date=011218&time=1505&timeSel=depart
+2018-11-15,14:34:07:1811,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1558&timeSel=depart
+2018-11-15,14:34:07:3766,4001,17591,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811221&from=http://irail.be/stations/NMBS/008822111&date=021218&time=0600&timeSel=depart
+2018-11-15,14:34:07:4854,2540,15895,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891702&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1501&timeSel=depart
+2018-11-15,14:34:07:5299,1407,14064,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884715&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1556&timeSel=depart
+2018-11-15,14:34:07:7813,1163,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1457&timeSel=depart
+2018-11-15,14:34:07:7845,2606,18156,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1554&timeSel=depart
+2018-11-15,14:34:07:8711,2372,8262,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008841558&date=011218&time=1456&timeSel=depart
+2018-11-15,14:34:08:1794,948,5767,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893120&from=http://irail.be/stations/NMBS/008894201&date=011218&time=1502&timeSel=depart
+2018-11-15,14:34:08:1837,1467,5928,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1601&timeSel=depart
+2018-11-15,14:34:08:3091,2481,9625,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896115&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1459&timeSel=depart
+2018-11-15,14:34:08:4528,2131,18535,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882206&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1506&timeSel=depart
+2018-11-15,14:34:09:1534,2542,18852,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008866001&date=011218&time=1555&timeSel=depart
+2018-11-15,14:34:09:4251,2509,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008774100&date=011218&time=1355&timeSel=depart
+2018-11-15,14:34:09:4774,2885,15872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1552&timeSel=depart
+2018-11-15,14:34:09:9101,2740,14343,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1455&timeSel=depart
+2018-11-15,14:34:09:9585,1154,5794,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008893401&date=011218&time=1503&timeSel=depart
+2018-11-15,14:34:10:4130,3073,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814167&from=http://irail.be/stations/NMBS/008813037&date=011218&time=1501&timeSel=depart
+2018-11-15,14:34:10:7334,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008863008&date=011218&time=0946&timeSel=depart
+2018-11-15,14:34:11:2210,2696,5659,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1557&timeSel=depart
+2018-11-15,14:34:11:4766,2592,5898,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=021218&time=0715&timeSel=depart
+2018-11-15,14:34:11:7130,2421,10266,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1456&timeSel=depart
+2018-11-15,14:34:11:7315,2392,9316,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1606&timeSel=depart
+2018-11-15,14:34:11:8378,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814258&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1558&timeSel=depart
+2018-11-15,14:34:11:9491,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008891124&date=011218&time=1601&timeSel=depart
+2018-11-15,14:34:12:0248,1078,12928,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891702&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1604&timeSel=depart
+2018-11-15,14:34:12:1011,2338,5659,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008833209&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:12:7276,1474,23544,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892304&from=http://irail.be/stations/NMBS/008896909&date=011218&time=1545&timeSel=depart
+2018-11-15,14:34:12:8450,2530,17535,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811221&from=http://irail.be/stations/NMBS/008822111&date=021218&time=0700&timeSel=depart
+2018-11-15,14:34:12:9794,2375,5898,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1659&timeSel=depart
+2018-11-15,14:34:12:9895,2397,5872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008886348&date=011218&time=1505&timeSel=depart
+2018-11-15,14:34:13:1372,1135,5659,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1453&timeSel=depart
+2018-11-15,14:34:13:3568,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811460&from=http://irail.be/stations/NMBS/008811411&date=021218&time=1558&timeSel=depart
+2018-11-15,14:34:13:5255,2299,9629,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1603&timeSel=depart
+2018-11-15,14:34:13:5539,2246,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:13:7901,2085,5927,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1455&timeSel=depart
+2018-11-15,14:34:13:9746,3450,24426,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008811247&date=011218&time=1504&timeSel=depart
+2018-11-15,14:34:14:0409,2556,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1452&timeSel=depart
+2018-11-15,14:34:14:0675,3475,18004,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895505&from=http://irail.be/stations/NMBS/008893039&date=011218&time=1520&timeSel=depart
+2018-11-15,14:34:14:1109,2212,15746,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814209&from=http://irail.be/stations/NMBS/008872587&date=011218&time=1556&timeSel=depart
+2018-11-15,14:34:14:1853,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811254&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1605&timeSel=depart
+2018-11-15,14:34:14:2819,2283,11359,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008874716&from=http://irail.be/stations/NMBS/008863115&date=011218&time=2016&timeSel=depart
+2018-11-15,14:34:14:6772,4584,6112,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814449&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1610&timeSel=depart
+2018-11-15,14:34:14:7046,3221,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-15,14:34:15:7091,2250,10336,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1545&timeSel=depart
+2018-11-15,14:34:15:8934,993,5596,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821071&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:15:9618,2239,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1456&timeSel=depart
+2018-11-15,14:34:16:2216,2717,19330,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822343&from=http://irail.be/stations/NMBS/008821196&date=011218&time=1452&timeSel=depart
+2018-11-15,14:34:16:8010,3574,24426,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008811247&date=011218&time=1459&timeSel=depart
+2018-11-15,14:34:16:9476,1085,7792,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894201&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1600&timeSel=depart
+2018-11-15,14:34:16:9979,2293,5812,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811221&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1547&timeSel=depart
+2018-11-15,14:34:17:5733,2294,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896800&from=http://irail.be/stations/NMBS/008896115&date=290915&time=1715&timeSel=depart
+2018-11-15,14:34:17:7168,2061,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1602&timeSel=depart
+2018-11-15,14:34:17:7561,2170,6135,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008813003&date=011218&time=2155&timeSel=depart
+2018-11-15,14:34:17:8347,2573,13154,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008821121&date=011218&time=1501&timeSel=depart
+2018-11-15,14:34:18:0752,2397,5602,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811445&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1556&timeSel=depart
+2018-11-15,14:34:18:2495,2145,7980,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008811189&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:18:2968,2108,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1504&timeSel=depart
+2018-11-15,14:34:18:8215,2359,18202,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883808&from=http://irail.be/stations/NMBS/008813003&date=011218&time=0536&timeSel=depart
+2018-11-15,14:34:18:9168,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1454&timeSel=depart
+2018-11-15,14:34:19:6293,1410,18114,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008883808&date=011218&time=1554&timeSel=depart
+2018-11-15,14:34:19:6657,4160,5786,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895745&from=http://irail.be/stations/NMBS/008895802&date=011218&time=1505&timeSel=depart
+2018-11-15,14:34:19:7501,1057,12355,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832003&from=http://irail.be/stations/NMBS/008833233&date=021218&time=1802&timeSel=depart
+2018-11-15,14:34:20:0855,2583,6100,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1456&timeSel=depart
+2018-11-15,14:34:20:1260,2902,11620,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1456&timeSel=depart
+2018-11-15,14:34:20:2535,3234,6124,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1453&timeSel=depart
+2018-11-15,14:34:21:2939,2275,11954,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1553&timeSel=depart
+2018-11-15,14:34:21:3583,2241,6040,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1613&timeSel=depart
+2018-11-15,14:34:21:5827,2973,5476,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1644&timeSel=depart
+2018-11-15,14:34:21:8951,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008896503&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:22:8116,2718,10965,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1453&timeSel=depart
+2018-11-15,14:34:22:8439,3529,5476,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1644&timeSel=depart
+2018-11-15,14:34:22:9022,2422,18460,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008811304&date=011218&time=1552&timeSel=depart
+2018-11-15,14:34:22:9666,1025,9199,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821196&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1554&timeSel=depart
+2018-11-15,14:34:23:2330,2342,15872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833233&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1500&timeSel=depart
+2018-11-15,14:34:23:6052,3090,9754,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814365&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1546&timeSel=depart
+2018-11-15,14:34:23:6936,4636,5838,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008812005&date=011218&time=0545&timeSel=depart
+2018-11-15,14:34:24:3009,2376,5881,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008894508&date=011218&time=1500&timeSel=depart
+2018-11-15,14:34:24:4433,3786,18538,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895505&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1602&timeSel=depart
+2018-11-15,14:34:24:5946,2460,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008811411&date=300915&time=1525&timeSel=depart
+2018-11-15,14:34:24:6048,1303,6867,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1554&timeSel=depart
+2018-11-15,14:34:24:6133,2789,21044,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008866001&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1555&timeSel=depart
+2018-11-15,14:34:24:8170,2818,5824,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008886348&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1456&timeSel=depart
+2018-11-15,14:34:24:8913,1373,8551,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008819406&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1557&timeSel=depart
+2018-11-15,14:34:25:0578,35,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008895000&date=011218&time=1455&timeSel=depart
+2018-11-15,14:34:25:2980,2512,8769,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811916&from=http://irail.be/stations/NMBS/008863115&date=011218&time=2000&timeSel=depart
+2018-11-15,14:34:25:3984,2556,5782,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1553&timeSel=depart
+2018-11-15,14:34:25:9047,2625,8821,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812146&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1506&timeSel=depart
+2018-11-15,14:34:26:1092,2728,5782,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1600&timeSel=depart
+2018-11-15,14:34:26:3085,2619,8734,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008893401&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1606&timeSel=depart
+2018-11-15,14:34:26:3168,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883311&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1604&timeSel=depart
+2018-11-15,14:34:26:4171,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833308&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1601&timeSel=depart
+2018-11-15,14:34:26:8967,2965,5884,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895869&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1609&timeSel=depart
+2018-11-15,14:34:26:9290,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1550&timeSel=depart
+2018-11-15,14:34:27:0333,2959,11626,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822004&from=http://irail.be/stations/NMBS/008833605&date=021218&time=0549&timeSel=depart
+2018-11-15,14:34:27:2618,2775,11530,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821535&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1555&timeSel=depart
+2018-11-15,14:34:27:8765,2795,14846,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895000&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1520&timeSel=depart
+2018-11-15,14:34:28:2771,2714,10608,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892080&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1452&timeSel=depart
+2018-11-15,14:34:28:3775,2497,5928,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821121&from=http://irail.be/stations/NMBS/008822004&date=011218&time=1559&timeSel=depart
+2018-11-15,14:34:28:5967,1550,12932,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008892007&date=021218&time=0715&timeSel=depart
+2018-11-15,14:34:28:7492,2981,11233,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863115&from=http://irail.be/stations/NMBS/008874716&date=011218&time=1557&timeSel=depart
+2018-11-15,14:34:28:7858,2678,14446,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1552&timeSel=depart
+2018-11-15,14:34:28:8941,2846,6038,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1620&timeSel=depart
+2018-11-15,14:34:29:0885,3031,5872,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008883436&date=011218&time=1556&timeSel=depart
+2018-11-15,14:34:29:1129,2769,5941,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821832&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1504&timeSel=depart
+2018-11-15,14:34:29:2614,1206,17871,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008865300&from=http://irail.be/stations/NMBS/008863115&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:29:2977,1372,5797,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821311&from=http://irail.be/stations/NMBS/008821006&date=011218&time=1456&timeSel=depart
+2018-11-15,14:34:29:4213,1150,17995,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008895208&date=011218&time=1500&timeSel=depart
+2018-11-15,14:34:30:1497,28,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814001&from=http://irail.be/stations/NMBS/008874609&date=011218&time=1504&timeSel=depart
+2018-11-15,14:34:30:3771,3610,15895,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891702&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1453&timeSel=depart
+2018-11-15,14:34:30:3974,2929,8908,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896008&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1555&timeSel=depart
+2018-11-15,14:34:30:4019,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008894508&from=http://irail.be/stations/NMBS/008892007&date=011218&time=0640&timeSel=depart
+2018-11-15,14:34:30:5494,4231,5950,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008884004&from=http://irail.be/stations/NMBS/008885704&date=011218&time=1459&timeSel=depart
+2018-11-15,14:34:30:6495,3187,13385,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1558&timeSel=depart
+2018-11-15,14:34:31:6300,3468,5992,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008883311&date=011218&time=1503&timeSel=depart
+2018-11-15,14:34:31:8733,2717,5898,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008892007&date=021218&time=0745&timeSel=depart
+2018-11-15,14:34:32:7976,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008822111&from=http://irail.be/stations/NMBS/008811221&date=011218&time=1504&timeSel=depart
+2018-11-15,14:34:32:8219,2902,17083,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008811676&date=021218&time=1345&timeSel=depart
+2018-11-15,14:34:33:2142,3077,5708,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891124&from=http://irail.be/stations/NMBS/008892007&date=011218&time=1607&timeSel=depart
+2018-11-15,14:34:33:2666,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1507&timeSel=depart
+2018-11-15,14:34:33:3059,1370,5926,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814209&from=http://irail.be/stations/NMBS/008872009&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:34:2143,2324,5650,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008885001&from=http://irail.be/stations/NMBS/008881000&date=011218&time=1601&timeSel=depart
+2018-11-15,14:34:34:3446,29,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814308&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1457&timeSel=depart
+2018-11-15,14:34:34:5612,2121,5800,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832433&from=http://irail.be/stations/NMBS/008832565&date=011218&time=1502&timeSel=depart
+2018-11-15,14:34:34:7316,2207,5884,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895869&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1442&timeSel=depart
+2018-11-15,14:34:34:8529,2170,8257,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008844008&from=http://irail.be/stations/NMBS/008841004&date=011218&time=2052&timeSel=depart
+2018-11-15,14:34:35:7005,2494,5714,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841608&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:36:2975,2398,12781,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811676&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1554&timeSel=depart
+2018-11-15,14:34:36:3418,2264,5502,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863008&from=http://irail.be/stations/NMBS/008874609&date=011218&time=1502&timeSel=depart
+2018-11-15,14:34:36:6975,2314,24232,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883113&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1453&timeSel=depart
+2018-11-15,14:34:37:4219,2216,7696,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841525&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1350&timeSel=depart
+2018-11-15,14:34:37:4864,2769,13301,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831401&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1554&timeSel=depart
+2018-11-15,14:34:37:5217,2295,7984,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833001&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1452&timeSel=depart
+2018-11-15,14:34:38:3702,934,6046,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008871308&date=011218&time=1559&timeSel=depart
+2018-11-15,14:34:38:3815,2764,21492,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008883006&from=http://irail.be/stations/NMBS/008814001&date=011218&time=1600&timeSel=depart
+2018-11-15,14:34:38:5580,2251,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008846201&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1545&timeSel=depart
+2018-11-15,14:34:38:8464,2536,10300,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1552&timeSel=depart
+2018-11-15,14:34:39:1727,2693,11990,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008881000&from=http://irail.be/stations/NMBS/008814001&date=021218&time=1525&timeSel=depart
+2018-11-15,14:34:39:5232,2618,11644,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008896503&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1612&timeSel=depart
+2018-11-15,14:34:39:6645,1545,7996,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008831401&date=011218&time=0900&timeSel=depart
+2018-11-15,14:34:39:9192,3257,9502,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008895000&date=011218&time=1503&timeSel=depart
+2018-11-15,14:34:40:8015,4045,6084,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008811189&from=http://irail.be/stations/NMBS/008813003&date=011218&time=1559&timeSel=depart
+2018-11-15,14:34:41:4891,4520,5476,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008831005&from=http://irail.be/stations/NMBS/008833001&date=011218&time=1504&timeSel=depart
+2018-11-15,14:34:41:8006,2568,8740,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008895778&from=http://irail.be/stations/NMBS/008812005&date=011218&time=1459&timeSel=depart
+2018-11-15,14:34:41:8211,2410,10606,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008891009&date=011218&time=1454&timeSel=depart
+2018-11-15,14:34:42:2007,3196,5875,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008813003&from=http://irail.be/stations/NMBS/008863008&date=011218&time=1506&timeSel=depart
+2018-11-15,14:34:42:4414,2279,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008882107&from=http://irail.be/stations/NMBS/008811205&date=011218&time=1556&timeSel=depart
+2018-11-15,14:34:42:4577,4810,23743,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812005&from=http://irail.be/stations/NMBS/008814332&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:42:5732,2719,14446,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008833209&from=http://irail.be/stations/NMBS/008811411&date=011218&time=1552&timeSel=depart
+2018-11-15,14:34:42:7375,2294,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008774100&date=011218&time=1552&timeSel=depart
+2018-11-15,14:34:42:8338,2629,17083,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008841004&from=http://irail.be/stations/NMBS/008811676&date=011218&time=1549&timeSel=depart
+2018-11-15,14:34:43:1530,2911,7634,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008863115&from=http://irail.be/stations/NMBS/008811916&date=011218&time=1557&timeSel=depart
+2018-11-15,14:34:44:5575,3210,5686,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008812120&from=http://irail.be/stations/NMBS/008812047&date=011218&time=1458&timeSel=depart
+2018-11-15,14:34:44:5847,2306,5794,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008892007&from=http://irail.be/stations/NMBS/008893401&date=021218&time=0555&timeSel=depart
+2018-11-15,14:34:45:2430,2371,FAILED HTTP:NotFound,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008814258&from=http://irail.be/stations/NMBS/008811197&date=011218&time=1506&timeSel=depart
+2018-11-15,14:34:45:3335,27,FAILED HTTP:BadGateway,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008891009&from=http://irail.be/stations/NMBS/008891702&date=011218&time=1507&timeSel=depart
+2018-11-15,14:34:45:3819,1361,12066,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008832003&from=http://irail.be/stations/NMBS/008831310&date=011218&time=1453&timeSel=depart
+2018-11-15,14:34:45:6464,2534,14122,https://api.irail.be/connections/?to=http://irail.be/stations/NMBS/008821006&from=http://irail.be/stations/NMBS/008841004&date=011218&time=1534&timeSel=depart
